@@ -8,7 +8,7 @@ require 'pathname'
 require_relative '../lib/IANA/MediaTypes'
 
 # Global Constants
-FILE_LOCATION = Pathname.new(File.dirname(__FILE__) + '/../data/iana.json').realpath
+FILE_LOCATION = Pathname.new(File.dirname(__FILE__) + '/../data').realpath.to_s + '/iana.json'
 
 File.open(FILE_LOCATION, 'w') do |file|
 	file.write(JSON.pretty_generate(IANA::MediaTypes.parse_iana_media_types()))
