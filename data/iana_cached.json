@@ -1,0 +1,5690 @@
+{
+  "application": [
+    {
+      "subtype": "1d-interleaved-parityfec",
+      "ref": "[RFC6015]"
+    },
+    {
+      "subtype": "3gpp-ims+xml",
+      "ref": "[John_M_Meredith]"
+    },
+    {
+      "subtype": "activemessage",
+      "ref": "[Ehud_Shapiro]"
+    },
+    {
+      "subtype": "andrew-inset",
+      "ref": "[Borenstein]"
+    },
+    {
+      "subtype": "applefile",
+      "ref": "[Faltstrom]"
+    },
+    {
+      "subtype": "atom+xml",
+      "ref": "[RFC4287][RFC5023]"
+    },
+    {
+      "subtype": "atomdeleted+xml",
+      "ref": "[RFC6721]"
+    },
+    {
+      "subtype": "atomicmail",
+      "ref": "[Borenstein]"
+    },
+    {
+      "subtype": "atomcat+xml",
+      "ref": "[RFC5023]"
+    },
+    {
+      "subtype": "atomsvc+xml",
+      "ref": "[RFC5023]"
+    },
+    {
+      "subtype": "auth-policy+xml",
+      "ref": "[RFC4745]"
+    },
+    {
+      "subtype": "batch-SMTP",
+      "ref": "[RFC2442]"
+    },
+    {
+      "subtype": "beep+xml",
+      "ref": "[RFC3080]"
+    },
+    {
+      "subtype": "calendar+xml",
+      "ref": "[RFC6321]"
+    },
+    {
+      "subtype": "call-completion",
+      "ref": "[RFC6910]"
+    },
+    {
+      "subtype": "cals-1840",
+      "ref": "[RFC1895]"
+    },
+    {
+      "subtype": "cbor",
+      "ref": "[RFC7049]"
+    },
+    {
+      "subtype": "ccmp+xml",
+      "ref": "[RFC6503]"
+    },
+    {
+      "subtype": "ccxml+xml",
+      "ref": "[RFC4267]"
+    },
+    {
+      "subtype": "cdmi-capability",
+      "ref": "[RFC6208]"
+    },
+    {
+      "subtype": "cdmi-container",
+      "ref": "[RFC6208]"
+    },
+    {
+      "subtype": "cdmi-domain",
+      "ref": "[RFC6208]"
+    },
+    {
+      "subtype": "cdmi-object",
+      "ref": "[RFC6208]"
+    },
+    {
+      "subtype": "cdmi-queue",
+      "ref": "[RFC6208]"
+    },
+    {
+      "subtype": "cea-2018+xml",
+      "ref": "[Gottfried_Zimmermann]"
+    },
+    {
+      "subtype": "cellml+xml",
+      "ref": "[RFC4708]"
+    },
+    {
+      "subtype": "cfw",
+      "ref": "[RFC6230]"
+    },
+    {
+      "subtype": "cnrp+xml",
+      "ref": "[RFC3367]"
+    },
+    {
+      "subtype": "commonground",
+      "ref": "[Glazer]"
+    },
+    {
+      "subtype": "conference-info+xml",
+      "ref": "[RFC4575]"
+    },
+    {
+      "subtype": "cpl+xml",
+      "ref": "[RFC3880]"
+    },
+    {
+      "subtype": "csrattrs",
+      "ref": "[RFC7030]"
+    },
+    {
+      "subtype": "csta+xml",
+      "ref": "[Ecma_International_Helpdesk]"
+    },
+    {
+      "subtype": "CSTAdata+xml",
+      "ref": "[Ecma_International_Helpdesk]"
+    },
+    {
+      "subtype": "cybercash",
+      "ref": "[Eastlake]"
+    },
+    {
+      "subtype": "dash+xml",
+      "ref": "[Thomas_Stockhammer][ISO-IEC_JTC1]"
+    },
+    {
+      "subtype": "dashdelta",
+      "ref": "[Furbeck]"
+    },
+    {
+      "subtype": "davmount+xml",
+      "ref": "[RFC4709]"
+    },
+    {
+      "subtype": "dca-rft",
+      "ref": "[Campbell]"
+    },
+    {
+      "subtype": "dec-dx",
+      "ref": "[Campbell]"
+    },
+    {
+      "subtype": "dialog-info+xml",
+      "ref": "[RFC4235]"
+    },
+    {
+      "subtype": "dicom",
+      "ref": "[RFC3240]"
+    },
+    {
+      "subtype": "dns",
+      "ref": "[RFC4027]"
+    },
+    {
+      "subtype": "dskpp+xml",
+      "ref": "[RFC6063]"
+    },
+    {
+      "subtype": "dssc+der",
+      "ref": "[RFC5698]"
+    },
+    {
+      "subtype": "dssc+xml",
+      "ref": "[RFC5698]"
+    },
+    {
+      "subtype": "dvcs",
+      "ref": "[RFC3029]"
+    },
+    {
+      "subtype": "ecmascript",
+      "ref": "[RFC4329]"
+    },
+    {
+      "subtype": "EDI-Consent",
+      "ref": "[RFC1767]"
+    },
+    {
+      "subtype": "EDIFACT",
+      "ref": "[RFC1767]"
+    },
+    {
+      "subtype": "EDI-X12",
+      "ref": "[RFC1767]"
+    },
+    {
+      "subtype": "emma+xml",
+      "ref": "[W3C][http://www.w3.org/TR/2007/CR-emma-20071211/#media-type-registration][ISO-IEC JTC1]"
+    },
+    {
+      "subtype": "emotionml+xml",
+      "ref": "[W3C][Ashimura]"
+    },
+    {
+      "subtype": "encaprtp",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "epp+xml",
+      "ref": "[RFC5730]"
+    },
+    {
+      "subtype": "eshop",
+      "ref": "[Katz]"
+    },
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "exi",
+      "ref": "[W3C][http://www.w3.org/TR/2009/CR-exi-20091208/#mediaTypeRegistration]"
+    },
+    {
+      "subtype": "fastinfoset",
+      "ref": "[ITU-T_ASN.1_Rapporteur]"
+    },
+    {
+      "subtype": "fastsoap",
+      "ref": "[ITU-T_ASN.1_Rapporteur]"
+    },
+    {
+      "subtype": "fdt+xml",
+      "ref": "[RFC6726]"
+    },
+    {
+      "subtype": "fits",
+      "ref": "[RFC4047]"
+    },
+    {
+      "subtype": "font-sfnt",
+      "ref": "[Levantovsky][ISO-IEC JTC1]"
+    },
+    {
+      "subtype": "font-tdpfr",
+      "ref": "[RFC3073]"
+    },
+    {
+      "subtype": "font-woff",
+      "ref": "[W3C]"
+    },
+    {
+      "subtype": "framework-attributes+xml",
+      "ref": "[RFC6230]"
+    },
+    {
+      "subtype": "gzip",
+      "ref": "[RFC6713]"
+    },
+    {
+      "subtype": "H224",
+      "ref": "[RFC4573]"
+    },
+    {
+      "subtype": "held+xml",
+      "ref": "[RFC5985]"
+    },
+    {
+      "subtype": "http",
+      "ref": "[RFC2616]"
+    },
+    {
+      "subtype": "hyperstudio",
+      "ref": "[Domino]"
+    },
+    {
+      "subtype": "ibe-key-request+xml",
+      "ref": "[RFC5408]"
+    },
+    {
+      "subtype": "ibe-pkg-reply+xml",
+      "ref": "[RFC5408]"
+    },
+    {
+      "subtype": "ibe-pp-data",
+      "ref": "[RFC5408]"
+    },
+    {
+      "subtype": "iges",
+      "ref": "[Curtis_Parks]"
+    },
+    {
+      "subtype": "im-iscomposing+xml",
+      "ref": "[RFC3994]"
+    },
+    {
+      "subtype": "index",
+      "ref": "[RFC2652]"
+    },
+    {
+      "subtype": "index.cmd",
+      "ref": "[RFC2652]"
+    },
+    {
+      "subtype": "index.obj",
+      "ref": "[RFC2652]"
+    },
+    {
+      "subtype": "index.response",
+      "ref": "[RFC2652]"
+    },
+    {
+      "subtype": "index.vnd",
+      "ref": "[RFC2652]"
+    },
+    {
+      "subtype": "inkml+xml",
+      "ref": "[Ashimura]"
+    },
+    {
+      "subtype": "iotp",
+      "ref": "[RFC2935]"
+    },
+    {
+      "subtype": "ipfix",
+      "ref": "[RFC5655]"
+    },
+    {
+      "subtype": "ipp",
+      "ref": "[RFC2910]"
+    },
+    {
+      "subtype": "isup",
+      "ref": "[RFC3204]"
+    },
+    {
+      "subtype": "its+xml",
+      "ref": "[W3C][ITS-IG-W3C]"
+    },
+    {
+      "subtype": "javascript",
+      "ref": "[RFC4329]"
+    },
+    {
+      "subtype": "jrd+json",
+      "ref": "[RFC7033]"
+    },
+    {
+      "subtype": "json",
+      "ref": "[RFC-ietf-json-rfc4627bis-10]"
+    },
+    {
+      "subtype": "json-patch+json",
+      "ref": "[RFC6902]"
+    },
+    {
+      "subtype": "kpml-request+xml",
+      "ref": "[RFC4730]"
+    },
+    {
+      "subtype": "kpml-response+xml",
+      "ref": "[RFC4730]"
+    },
+    {
+      "subtype": "ld+json",
+      "ref": "[W3C][Herman]"
+    },
+    {
+      "subtype": "link-format",
+      "ref": "[RFC6690]"
+    },
+    {
+      "subtype": "lost+xml",
+      "ref": "[RFC5222]"
+    },
+    {
+      "subtype": "lostsync+xml",
+      "ref": "[RFC6739]"
+    },
+    {
+      "subtype": "mac-binhex40",
+      "ref": "[Faltstrom]"
+    },
+    {
+      "subtype": "macwriteii",
+      "ref": "[Paul_Lindner]"
+    },
+    {
+      "subtype": "mads+xml",
+      "ref": "[RFC6207]"
+    },
+    {
+      "subtype": "marc",
+      "ref": "[RFC2220]"
+    },
+    {
+      "subtype": "marcxml+xml",
+      "ref": "[RFC6207]"
+    },
+    {
+      "subtype": "mathematica",
+      "ref": "[Wolfram]"
+    },
+    {
+      "subtype": "mathml-content+xml",
+      "ref": "[W3C][http://www.w3.org/TR/MathML3/appendixb.html]"
+    },
+    {
+      "subtype": "mathml-presentation+xml",
+      "ref": "[W3C][http://www.w3.org/TR/MathML3/appendixb.html]"
+    },
+    {
+      "subtype": "mathml+xml",
+      "ref": "[W3C][http://www.w3.org/TR/MathML3/appendixb.html]"
+    },
+    {
+      "subtype": "mbms-associated-procedure-description+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-deregister+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-envelope+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-msk-response+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-msk+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-protection-description+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-reception-report+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-register-response+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-register+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbms-schedule+xml",
+      "ref": "[ThreeGPP][Eric_Turcotte]"
+    },
+    {
+      "subtype": "mbms-user-service-description+xml",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "mbox",
+      "ref": "[RFC4155]"
+    },
+    {
+      "subtype": "media_control+xml",
+      "ref": "[RFC5168]"
+    },
+    {
+      "subtype": "media-policy-dataset+xml",
+      "ref": "[RFC6796]"
+    },
+    {
+      "subtype": "mediaservercontrol+xml",
+      "ref": "[RFC5022]"
+    },
+    {
+      "subtype": "metalink4+xml",
+      "ref": "[RFC5854]"
+    },
+    {
+      "subtype": "mets+xml",
+      "ref": "[RFC6207]"
+    },
+    {
+      "subtype": "mikey",
+      "ref": "[RFC3830]"
+    },
+    {
+      "subtype": "mods+xml",
+      "ref": "[RFC6207]"
+    },
+    {
+      "subtype": "moss-keys",
+      "ref": "[RFC1848]"
+    },
+    {
+      "subtype": "moss-signature",
+      "ref": "[RFC1848]"
+    },
+    {
+      "subtype": "mosskey-data",
+      "ref": "[RFC1848]"
+    },
+    {
+      "subtype": "mosskey-request",
+      "ref": "[RFC1848]"
+    },
+    {
+      "subtype": "mp21",
+      "ref": "[RFC6381][David_Singer]"
+    },
+    {
+      "subtype": "mp4",
+      "ref": "[RFC4337][RFC6381]"
+    },
+    {
+      "subtype": "mpeg4-generic",
+      "ref": "[RFC3640]"
+    },
+    {
+      "subtype": "mpeg4-iod",
+      "ref": "[RFC4337]"
+    },
+    {
+      "subtype": "mpeg4-iod-xmt",
+      "ref": "[RFC4337]"
+    },
+    {
+      "subtype": "mrb-consumer+xml",
+      "ref": "[RFC6917]"
+    },
+    {
+      "subtype": "mrb-publish+xml",
+      "ref": "[RFC6917]"
+    },
+    {
+      "subtype": "msc-ivr+xml",
+      "ref": "[RFC6231]"
+    },
+    {
+      "subtype": "msc-mixer+xml",
+      "ref": "[RFC6505]"
+    },
+    {
+      "subtype": "msword",
+      "ref": "[Paul_Lindner]"
+    },
+    {
+      "subtype": "mxf",
+      "ref": "[RFC4539]"
+    },
+    {
+      "subtype": "nasdata",
+      "ref": "[RFC4707]"
+    },
+    {
+      "subtype": "news-checkgroups",
+      "ref": "[RFC5537]"
+    },
+    {
+      "subtype": "news-groupinfo",
+      "ref": "[RFC5537]"
+    },
+    {
+      "subtype": "news-transmission",
+      "ref": "[RFC5537]"
+    },
+    {
+      "subtype": "nlsml+xml",
+      "ref": "[RFC6787]"
+    },
+    {
+      "subtype": "nss",
+      "ref": "[Hammer]"
+    },
+    {
+      "subtype": "ocsp-request",
+      "ref": "[RFC6960]"
+    },
+    {
+      "subtype": "ocsp-response",
+      "ref": "[RFC6960]"
+    },
+    {
+      "subtype": "octet-stream",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "oda",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "ODX",
+      "ref": "[ASAM][Thomas_Thomsen]"
+    },
+    {
+      "subtype": "oebps-package+xml",
+      "ref": "[RFC4839]"
+    },
+    {
+      "subtype": "ogg",
+      "ref": "[RFC5334]"
+    },
+    {
+      "subtype": "oxps",
+      "ref": "[Ecma_International_Helpdesk]"
+    },
+    {
+      "subtype": "p2p-overlay+xml",
+      "ref": "[draft-ietf-p2psip-base]"
+    },
+    {
+      "subtype": "parityfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "patch-ops-error+xml",
+      "ref": "[RFC5261]"
+    },
+    {
+      "subtype": "pdf",
+      "ref": "[RFC3778]"
+    },
+    {
+      "subtype": "pgp-encrypted",
+      "ref": "[RFC3156]"
+    },
+    {
+      "subtype": "pgp-keys",
+      "ref": "[RFC3156]"
+    },
+    {
+      "subtype": "pgp-signature",
+      "ref": "[RFC3156]"
+    },
+    {
+      "subtype": "pidf+xml",
+      "ref": "[RFC3863]"
+    },
+    {
+      "subtype": "pidf-diff+xml",
+      "ref": "[RFC5262]"
+    },
+    {
+      "subtype": "pkcs10",
+      "ref": "[RFC5967]"
+    },
+    {
+      "subtype": "pkcs7-mime",
+      "ref": "[RFC5751][RFC-leiba-smime-type-registry-02]"
+    },
+    {
+      "subtype": "pkcs7-signature",
+      "ref": "[RFC5751]"
+    },
+    {
+      "subtype": "pkcs8",
+      "ref": "[RFC5958]"
+    },
+    {
+      "subtype": "pkix-attr-cert",
+      "ref": "[RFC5877]"
+    },
+    {
+      "subtype": "pkix-cert",
+      "ref": "[RFC2585]"
+    },
+    {
+      "subtype": "pkixcmp",
+      "ref": "[RFC2510]"
+    },
+    {
+      "subtype": "pkix-crl",
+      "ref": "[RFC2585]"
+    },
+    {
+      "subtype": "pkix-pkipath",
+      "ref": "[RFC6066]"
+    },
+    {
+      "subtype": "pls+xml",
+      "ref": "[RFC4267]"
+    },
+    {
+      "subtype": "poc-settings+xml",
+      "ref": "[RFC4354]"
+    },
+    {
+      "subtype": "postscript",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "provenance+xml",
+      "ref": "[W3C][Herman]"
+    },
+    {
+      "subtype": "prs.alvestrand.titrax-sheet",
+      "ref": "[Alvestrand]"
+    },
+    {
+      "subtype": "prs.cww",
+      "ref": "[Khemchart_Rungchavalnont]"
+    },
+    {
+      "subtype": "prs.hpub+zip",
+      "ref": "[Giulio_Zambon]"
+    },
+    {
+      "subtype": "prs.nprend",
+      "ref": "[Doggett]"
+    },
+    {
+      "subtype": "prs.plucker",
+      "ref": "[Janssen]"
+    },
+    {
+      "subtype": "prs.rdf-xml-crypt",
+      "ref": "[Inkster]"
+    },
+    {
+      "subtype": "prs.xsf+xml",
+      "ref": "[Maik_Stührenberg]"
+    },
+    {
+      "subtype": "pskc+xml",
+      "ref": "[RFC6030]"
+    },
+    {
+      "subtype": "rdf+xml",
+      "ref": "[RFC3870]"
+    },
+    {
+      "subtype": "qsig",
+      "ref": "[RFC3204]"
+    },
+    {
+      "subtype": "raptorfec",
+      "ref": "[RFC6682]"
+    },
+    {
+      "subtype": "reginfo+xml",
+      "ref": "[RFC3680]"
+    },
+    {
+      "subtype": "relax-ng-compact-syntax",
+      "ref": "[http://www.jtc1sc34.org/repository/0661.pdf]"
+    },
+    {
+      "subtype": "remote-printing",
+      "ref": "[RFC1486][Marshall_Rose]"
+    },
+    {
+      "subtype": "reputon+json",
+      "ref": "[RFC7071]"
+    },
+    {
+      "subtype": "resource-lists-diff+xml",
+      "ref": "[RFC5362]"
+    },
+    {
+      "subtype": "resource-lists+xml",
+      "ref": "[RFC4826]"
+    },
+    {
+      "subtype": "riscos",
+      "ref": "[Nick_Smith]"
+    },
+    {
+      "subtype": "rlmi+xml",
+      "ref": "[RFC4662]"
+    },
+    {
+      "subtype": "rls-services+xml",
+      "ref": "[RFC4826]"
+    },
+    {
+      "subtype": "rpki-ghostbusters",
+      "ref": "[RFC6493]"
+    },
+    {
+      "subtype": "rpki-manifest",
+      "ref": "[RFC6481]"
+    },
+    {
+      "subtype": "rpki-roa",
+      "ref": "[RFC6481]"
+    },
+    {
+      "subtype": "rpki-updown",
+      "ref": "[RFC6492]"
+    },
+    {
+      "subtype": "rtf",
+      "ref": "[Paul_Lindner]"
+    },
+    {
+      "subtype": "rtploopback",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "rtx",
+      "ref": "[RFC4588]"
+    },
+    {
+      "subtype": "samlassertion+xml",
+      "ref": "[OASIS_Security_Services_Technical_Committee_SSTC]"
+    },
+    {
+      "subtype": "samlmetadata+xml",
+      "ref": "[OASIS_Security_Services_Technical_Committee_SSTC]"
+    },
+    {
+      "subtype": "sbml+xml",
+      "ref": "[RFC3823]"
+    },
+    {
+      "subtype": "scvp-cv-request",
+      "ref": "[RFC5055]"
+    },
+    {
+      "subtype": "scvp-cv-response",
+      "ref": "[RFC5055]"
+    },
+    {
+      "subtype": "scvp-vp-request",
+      "ref": "[RFC5055]"
+    },
+    {
+      "subtype": "scvp-vp-response",
+      "ref": "[RFC5055]"
+    },
+    {
+      "subtype": "sdp",
+      "ref": "[RFC4566]"
+    },
+    {
+      "subtype": "sep-exi",
+      "ref": "[Robby_Simpson][ZigBee]"
+    },
+    {
+      "subtype": "sep+xml",
+      "ref": "[Robby_Simpson][ZigBee]"
+    },
+    {
+      "subtype": "session-info",
+      "ref": "[ThreeGPP][Firmin]"
+    },
+    {
+      "subtype": "set-payment",
+      "ref": "[Korver]"
+    },
+    {
+      "subtype": "set-payment-initiation",
+      "ref": "[Korver]"
+    },
+    {
+      "subtype": "set-registration",
+      "ref": "[Korver]"
+    },
+    {
+      "subtype": "set-registration-initiation",
+      "ref": "[Korver]"
+    },
+    {
+      "subtype": "sgml",
+      "ref": "[RFC1874]"
+    },
+    {
+      "subtype": "sgml-open-catalog",
+      "ref": "[Grosso]"
+    },
+    {
+      "subtype": "shf+xml",
+      "ref": "[RFC4194]"
+    },
+    {
+      "subtype": "sieve",
+      "ref": "[RFC5228]"
+    },
+    {
+      "subtype": "simple-filter+xml",
+      "ref": "[RFC4661]"
+    },
+    {
+      "subtype": "simple-message-summary",
+      "ref": "[RFC3842]"
+    },
+    {
+      "subtype": "simpleSymbolContainer",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "slate",
+      "ref": "[Crowley]"
+    },
+    {
+      "subtype": "smil - OBSOLETE",
+      "ref": "[RFC4536]"
+    },
+    {
+      "subtype": "smil+xml",
+      "ref": "[RFC4536]"
+    },
+    {
+      "subtype": "smpte336m",
+      "ref": "[RFC6597]"
+    },
+    {
+      "subtype": "soap+fastinfoset",
+      "ref": "[ITU-T_ASN.1_Rapporteur]"
+    },
+    {
+      "subtype": "soap+xml",
+      "ref": "[RFC3902]"
+    },
+    {
+      "subtype": "sparql-query",
+      "ref": "[W3C][http://www.w3.org/TR/2007/CR-rdf-sparql-query-20070614/#mediaType]"
+    },
+    {
+      "subtype": "sparql-results+xml",
+      "ref": "[W3C][http://www.w3.org/TR/2007/CR-rdf-sparql-XMLres-20070925/#mime]"
+    },
+    {
+      "subtype": "spirits-event+xml",
+      "ref": "[RFC3910]"
+    },
+    {
+      "subtype": "sql",
+      "ref": "[RFC6922]"
+    },
+    {
+      "subtype": "srgs",
+      "ref": "[RFC4267]"
+    },
+    {
+      "subtype": "srgs+xml",
+      "ref": "[RFC4267]"
+    },
+    {
+      "subtype": "sru+xml",
+      "ref": "[RFC6207]"
+    },
+    {
+      "subtype": "ssml+xml",
+      "ref": "[RFC4267]"
+    },
+    {
+      "subtype": "tamp-apex-update",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-apex-update-confirm",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-community-update",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-community-update-confirm",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-error",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-sequence-adjust",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-sequence-adjust-confirm",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-status-query",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-status-response",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-update",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tamp-update-confirm",
+      "ref": "[RFC5934]"
+    },
+    {
+      "subtype": "tei+xml",
+      "ref": "[RFC6129]"
+    },
+    {
+      "subtype": "thraud+xml",
+      "ref": "[RFC5941]"
+    },
+    {
+      "subtype": "timestamp-query",
+      "ref": "[RFC3161]"
+    },
+    {
+      "subtype": "timestamp-reply",
+      "ref": "[RFC3161]"
+    },
+    {
+      "subtype": "timestamped-data",
+      "ref": "[RFC5955]"
+    },
+    {
+      "subtype": "tve-trigger",
+      "ref": "[Linda_Welsh]"
+    },
+    {
+      "subtype": "ulpfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "urc-grpsheet+xml",
+      "ref": "[Gottfried_Zimmermann][ISO-IEC JTC1]"
+    },
+    {
+      "subtype": "urc-ressheet+xml",
+      "ref": "[Gottfried_Zimmermann][ISO-IEC JTC1]"
+    },
+    {
+      "subtype": "urc-targetdesc+xml",
+      "ref": "[Gottfried_Zimmermann][ISO-IEC JTC1]"
+    },
+    {
+      "subtype": "urc-uisocketdesc+xml",
+      "ref": "[Gottfried_Zimmermann]"
+    },
+    {
+      "subtype": "vcard+json",
+      "ref": "[RFC7095]"
+    },
+    {
+      "subtype": "vcard+xml",
+      "ref": "[RFC6351]"
+    },
+    {
+      "subtype": "vemmi",
+      "ref": "[RFC2122]"
+    },
+    {
+      "subtype": "vnd.3gpp.bsf+xml",
+      "ref": "[John_M_Meredith]"
+    },
+    {
+      "subtype": "vnd.3gpp.pic-bw-large",
+      "ref": "[John_M_Meredith]"
+    },
+    {
+      "subtype": "vnd.3gpp.pic-bw-small",
+      "ref": "[John_M_Meredith]"
+    },
+    {
+      "subtype": "vnd.3gpp.pic-bw-var",
+      "ref": "[John_M_Meredith]"
+    },
+    {
+      "subtype": "vnd.3gpp.sms",
+      "ref": "[John_M_Meredith]"
+    },
+    {
+      "subtype": "vnd.3gpp2.bcmcsinfo+xml",
+      "ref": "[Dryden]"
+    },
+    {
+      "subtype": "vnd.3gpp2.sms",
+      "ref": "[AC_Mahendran]"
+    },
+    {
+      "subtype": "vnd.3gpp2.tcap",
+      "ref": "[AC_Mahendran]"
+    },
+    {
+      "subtype": "vnd.3M.Post-it-Notes",
+      "ref": "[Michael_OBrien]"
+    },
+    {
+      "subtype": "vnd.accpac.simply.aso",
+      "ref": "[Steve_Leow]"
+    },
+    {
+      "subtype": "vnd.accpac.simply.imp",
+      "ref": "[Steve_Leow]"
+    },
+    {
+      "subtype": "vnd.acucobol",
+      "ref": "[Dovid_Lubin]"
+    },
+    {
+      "subtype": "vnd.acucorp",
+      "ref": "[Dovid_Lubin]"
+    },
+    {
+      "subtype": "vnd.adobe.flash.movie",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.adobe.formscentral.fcdt",
+      "ref": "[Chris_Solc]"
+    },
+    {
+      "subtype": "vnd.adobe.fxp",
+      "ref": "[Brambley][Heintz]"
+    },
+    {
+      "subtype": "vnd.adobe.partial-upload",
+      "ref": "[Tapani_Otala]"
+    },
+    {
+      "subtype": "vnd.adobe.xdp+xml",
+      "ref": "[Brinkman]"
+    },
+    {
+      "subtype": "vnd.adobe.xfdf",
+      "ref": "[Roberto_Perelman]"
+    },
+    {
+      "subtype": "vnd.aether.imp",
+      "ref": "[Jay_Moskowitz]"
+    },
+    {
+      "subtype": "vnd.ah-barcode",
+      "ref": "[Ichinose]"
+    },
+    {
+      "subtype": "vnd.ahead.space",
+      "ref": "[Tor_Kristensen]"
+    },
+    {
+      "subtype": "vnd.airzip.filesecure.azf",
+      "ref": "[Daniel_Mould][Clueit]"
+    },
+    {
+      "subtype": "vnd.airzip.filesecure.azs",
+      "ref": "[Daniel_Mould][Clueit]"
+    },
+    {
+      "subtype": "vnd.americandynamics.acc",
+      "ref": "[Gary_Sands]"
+    },
+    {
+      "subtype": "vnd.amiga.ami",
+      "ref": "[Blumberg]"
+    },
+    {
+      "subtype": "vnd.amundsen.maze+xml",
+      "ref": "[Amundsen]"
+    },
+    {
+      "subtype": "vnd.anser-web-certificate-issue-initiation",
+      "ref": "[Hiroyoshi_Mori]"
+    },
+    {
+      "subtype": "vnd.antix.game-component",
+      "ref": "[Daniel_Shelton]"
+    },
+    {
+      "subtype": "vnd.api+json",
+      "ref": "[Klabnik]"
+    },
+    {
+      "subtype": "vnd.apple.mpegurl",
+      "ref": "[David_Singer][Roger_Pantos]"
+    },
+    {
+      "subtype": "vnd.apple.installer+xml",
+      "ref": "[Bierman]"
+    },
+    {
+      "subtype": "vnd.arastra.swi - OBSOLETE",
+      "ref": "[Fenner]"
+    },
+    {
+      "subtype": "vnd.aristanetworks.swi",
+      "ref": "[Fenner]"
+    },
+    {
+      "subtype": "vnd.astraea-software.iota",
+      "ref": "[Christopher_Snazell]"
+    },
+    {
+      "subtype": "vnd.audiograph",
+      "ref": "[Horia_Cristian_Slusanschi]"
+    },
+    {
+      "subtype": "vnd.autopackage",
+      "ref": "[Hearn]"
+    },
+    {
+      "subtype": "vnd.avistar+xml",
+      "ref": "[Vladimir_Vysotsky]"
+    },
+    {
+      "subtype": "vnd.balsamiq.bmml+xml",
+      "ref": "[Giacomo_Guilizzoni]"
+    },
+    {
+      "subtype": "vnd.bekitzur-stech+json",
+      "ref": "[Jegulsky]"
+    },
+    {
+      "subtype": "vnd.blueice.multipass",
+      "ref": "[Holmstrom]"
+    },
+    {
+      "subtype": "vnd.bluetooth.ep.oob",
+      "ref": "[Foley]"
+    },
+    {
+      "subtype": "vnd.bluetooth.le.oob",
+      "ref": "[Mark_Powell]"
+    },
+    {
+      "subtype": "vnd.bmi",
+      "ref": "[Gotoh]"
+    },
+    {
+      "subtype": "vnd.businessobjects",
+      "ref": "[Imoucha]"
+    },
+    {
+      "subtype": "vnd.cab-jscript",
+      "ref": "[Falkenberg]"
+    },
+    {
+      "subtype": "vnd.canon-cpdl",
+      "ref": "[Shin_Muto]"
+    },
+    {
+      "subtype": "vnd.canon-lips",
+      "ref": "[Shin_Muto]"
+    },
+    {
+      "subtype": "vnd.cendio.thinlinc.clientconf",
+      "ref": "[Astrand]"
+    },
+    {
+      "subtype": "vnd.century-systems.tcp_stream",
+      "ref": "[Shuji_Fujii]"
+    },
+    {
+      "subtype": "vnd.chemdraw+xml",
+      "ref": "[Howes]"
+    },
+    {
+      "subtype": "vnd.chipnuts.karaoke-mmd",
+      "ref": "[Chunyun_Xiong]"
+    },
+    {
+      "subtype": "vnd.cinderella",
+      "ref": "[Kortenkamp]"
+    },
+    {
+      "subtype": "vnd.cirpack.isdn-ext",
+      "ref": "[Pascal_Mayeux]"
+    },
+    {
+      "subtype": "vnd.claymore",
+      "ref": "[Ray_Simpson]"
+    },
+    {
+      "subtype": "vnd.cloanto.rp9",
+      "ref": "[Mike_Labatt]"
+    },
+    {
+      "subtype": "vnd.clonk.c4group",
+      "ref": "[Brammer]"
+    },
+    {
+      "subtype": "vnd.cluetrust.cartomobile-config",
+      "ref": "[Gaige_Paulsen]"
+    },
+    {
+      "subtype": "vnd.cluetrust.cartomobile-config-pkg",
+      "ref": "[Gaige_Paulsen]"
+    },
+    {
+      "subtype": "vnd.collection+json",
+      "ref": "[Amundsen]"
+    },
+    {
+      "subtype": "vnd.collection.next+json",
+      "ref": "[Ioseb_Dzmanashvili]"
+    },
+    {
+      "subtype": "vnd.commerce-battelle",
+      "ref": "[Applebaum]"
+    },
+    {
+      "subtype": "vnd.commonspace",
+      "ref": "[Chandhok]"
+    },
+    {
+      "subtype": "vnd.cosmocaller",
+      "ref": "[Dellutri]"
+    },
+    {
+      "subtype": "vnd.contact.cmsg",
+      "ref": "[Frank_Patz]"
+    },
+    {
+      "subtype": "vnd.crick.clicker",
+      "ref": "[Burt]"
+    },
+    {
+      "subtype": "vnd.crick.clicker.keyboard",
+      "ref": "[Burt]"
+    },
+    {
+      "subtype": "vnd.crick.clicker.palette",
+      "ref": "[Burt]"
+    },
+    {
+      "subtype": "vnd.crick.clicker.template",
+      "ref": "[Burt]"
+    },
+    {
+      "subtype": "vnd.crick.clicker.wordbank",
+      "ref": "[Burt]"
+    },
+    {
+      "subtype": "vnd.criticaltools.wbs+xml",
+      "ref": "[Jim_Spiller]"
+    },
+    {
+      "subtype": "vnd.ctc-posml",
+      "ref": "[Kohlhepp]"
+    },
+    {
+      "subtype": "vnd.ctct.ws+xml",
+      "ref": "[Ancona]"
+    },
+    {
+      "subtype": "vnd.cups-pdf",
+      "ref": "[Michael_Sweet]"
+    },
+    {
+      "subtype": "vnd.cups-postscript",
+      "ref": "[Michael_Sweet]"
+    },
+    {
+      "subtype": "vnd.cups-ppd",
+      "ref": "[Michael_Sweet]"
+    },
+    {
+      "subtype": "vnd.cups-raster",
+      "ref": "[Michael_Sweet]"
+    },
+    {
+      "subtype": "vnd.cups-raw",
+      "ref": "[Michael_Sweet]"
+    },
+    {
+      "subtype": "vnd.curl",
+      "ref": "[Byrnes]"
+    },
+    {
+      "subtype": "vnd.cyan.dean.root+xml",
+      "ref": "[Kern]"
+    },
+    {
+      "subtype": "vnd.cybank",
+      "ref": "[Helmee]"
+    },
+    {
+      "subtype": "vnd.dart",
+      "ref": "[Anders_Sandholm]"
+    },
+    {
+      "subtype": "vnd.data-vision.rdz",
+      "ref": "[Fields]"
+    },
+    {
+      "subtype": "vnd.dece.data",
+      "ref": "[Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.ttml+xml",
+      "ref": "[Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.unspecified",
+      "ref": "[Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.zip",
+      "ref": "[Dolan]"
+    },
+    {
+      "subtype": "vnd.denovo.fcselayout-link",
+      "ref": "[Dixon]"
+    },
+    {
+      "subtype": "vnd.desmume.movie",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.dir-bi.plate-dl-nosuffix",
+      "ref": "[Yamanaka]"
+    },
+    {
+      "subtype": "vnd.dm.delegation+xml",
+      "ref": "[Ferrazzini]"
+    },
+    {
+      "subtype": "vnd.dna",
+      "ref": "[Meredith_Searcy]"
+    },
+    {
+      "subtype": "vnd.document+json",
+      "ref": "[Christie]"
+    },
+    {
+      "subtype": "vnd.dolby.mobile.1",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dolby.mobile.2",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dpgraph",
+      "ref": "[David_Parker]"
+    },
+    {
+      "subtype": "vnd.dreamfactory",
+      "ref": "[Appleton]"
+    },
+    {
+      "subtype": "vnd.dtg.local",
+      "ref": "[Ali_Teffahi]"
+    },
+    {
+      "subtype": "vnd.dtg.local.flash",
+      "ref": "[Ali_Teffahi]"
+    },
+    {
+      "subtype": "vnd.dtg.local.html",
+      "ref": "[Ali_Teffahi]"
+    },
+    {
+      "subtype": "vnd.dvb.ait",
+      "ref": "[Peter_Siebert][Michael_Lagally]"
+    },
+    {
+      "subtype": "vnd.dvb.dvbj",
+      "ref": "[Peter_Siebert][Michael_Lagally]"
+    },
+    {
+      "subtype": "vnd.dvb.esgcontainer",
+      "ref": "[Heuer]"
+    },
+    {
+      "subtype": "vnd.dvb.ipdcdftnotifaccess",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.ipdcesgaccess",
+      "ref": "[Heuer]"
+    },
+    {
+      "subtype": "vnd.dvb.ipdcesgaccess2",
+      "ref": "[Jerome_Marcon]"
+    },
+    {
+      "subtype": "vnd.dvb.ipdcesgpdd",
+      "ref": "[Jerome_Marcon]"
+    },
+    {
+      "subtype": "vnd.dvb.ipdcroaming",
+      "ref": "[Yiling_Xu]"
+    },
+    {
+      "subtype": "vnd.dvb.iptv.alfec-base",
+      "ref": "[Henry]"
+    },
+    {
+      "subtype": "vnd.dvb.iptv.alfec-enhancement",
+      "ref": "[Henry]"
+    },
+    {
+      "subtype": "vnd.dvb.notif-aggregate-root+xml",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.notif-container+xml",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.notif-generic+xml",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.notif-ia-msglist+xml",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.notif-ia-registration-request+xml",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.notif-ia-registration-response+xml",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.notif-init+xml",
+      "ref": "[Roy_Yue]"
+    },
+    {
+      "subtype": "vnd.dvb.pfr",
+      "ref": "[Peter_Siebert][Michael_Lagally]"
+    },
+    {
+      "subtype": "vnd.dvb.service",
+      "ref": "[Peter_Siebert][Michael_Lagally]"
+    },
+    {
+      "subtype": "vnd.dxr",
+      "ref": "[Duffy]"
+    },
+    {
+      "subtype": "vnd.dynageo",
+      "ref": "[Roland_Mechling]"
+    },
+    {
+      "subtype": "vnd.easykaraoke.cdgdownload",
+      "ref": "[Downs]"
+    },
+    {
+      "subtype": "vnd.ecdis-update",
+      "ref": "[Buettgenbach]"
+    },
+    {
+      "subtype": "vnd.ecowin.chart",
+      "ref": "[Thomas_Olsson]"
+    },
+    {
+      "subtype": "vnd.ecowin.filerequest",
+      "ref": "[Thomas_Olsson]"
+    },
+    {
+      "subtype": "vnd.ecowin.fileupdate",
+      "ref": "[Thomas_Olsson]"
+    },
+    {
+      "subtype": "vnd.ecowin.series",
+      "ref": "[Thomas_Olsson]"
+    },
+    {
+      "subtype": "vnd.ecowin.seriesrequest",
+      "ref": "[Thomas_Olsson]"
+    },
+    {
+      "subtype": "vnd.ecowin.seriesupdate",
+      "ref": "[Thomas_Olsson]"
+    },
+    {
+      "subtype": "vnd.emclient.accessrequest+xml",
+      "ref": "[Filip_Navara]"
+    },
+    {
+      "subtype": "vnd.enliven",
+      "ref": "[Paul_Santinelli_Jr.]"
+    },
+    {
+      "subtype": "vnd.eprints.data+xml",
+      "ref": "[Brody]"
+    },
+    {
+      "subtype": "vnd.epson.esf",
+      "ref": "[Hoshina]"
+    },
+    {
+      "subtype": "vnd.epson.msf",
+      "ref": "[Hoshina]"
+    },
+    {
+      "subtype": "vnd.epson.quickanime",
+      "ref": "[Gu]"
+    },
+    {
+      "subtype": "vnd.epson.salt",
+      "ref": "[Yasuhito_Nagatomo]"
+    },
+    {
+      "subtype": "vnd.epson.ssf",
+      "ref": "[Hoshina]"
+    },
+    {
+      "subtype": "vnd.ericsson.quickcall",
+      "ref": "[Paul_Tidwell]"
+    },
+    {
+      "subtype": "vnd.eszigno3+xml",
+      "ref": "[Szilveszter_Tóth]"
+    },
+    {
+      "subtype": "vnd.etsi.aoc+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.asic-s+zip",
+      "ref": "[Miguel_Angel_Reina_Ortega]"
+    },
+    {
+      "subtype": "vnd.etsi.asic-e+zip",
+      "ref": "[Miguel_Angel_Reina_Ortega]"
+    },
+    {
+      "subtype": "vnd.etsi.cug+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvcommand+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvdiscovery+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvprofile+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvsad-bc+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvsad-cod+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvsad-npvr+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvservice+xml",
+      "ref": "[Miguel_Angel_Reina_Ortega]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvsync+xml",
+      "ref": "[Miguel_Angel_Reina_Ortega]"
+    },
+    {
+      "subtype": "vnd.etsi.iptvueprofile+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.mcid+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.mheg5",
+      "ref": "[Miguel_Angel_Reina_Ortega][Ian_Medland]"
+    },
+    {
+      "subtype": "vnd.etsi.overload-control-policy-dataset+xml",
+      "ref": "[Miguel_Angel_Reina_Ortega]"
+    },
+    {
+      "subtype": "vnd.etsi.pstn+xml",
+      "ref": "[Han][Belling]"
+    },
+    {
+      "subtype": "vnd.etsi.sci+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.simservs+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.timestamp-token",
+      "ref": "[Miguel_Angel_Reina_Ortega]"
+    },
+    {
+      "subtype": "vnd.etsi.tsl+xml",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.etsi.tsl.der",
+      "ref": "[Hu]"
+    },
+    {
+      "subtype": "vnd.eudora.data",
+      "ref": "[Pete_Resnick]"
+    },
+    {
+      "subtype": "vnd.ezpix-album",
+      "ref": "[ElectronicZombieCorp]"
+    },
+    {
+      "subtype": "vnd.ezpix-package",
+      "ref": "[ElectronicZombieCorp]"
+    },
+    {
+      "subtype": "vnd.f-secure.mobile",
+      "ref": "[Samu_Sarivaara]"
+    },
+    {
+      "subtype": "vnd.fdf",
+      "ref": "[Steve_Zilles]"
+    },
+    {
+      "subtype": "vnd.fdsn.mseed",
+      "ref": "[Chad_Trabant]"
+    },
+    {
+      "subtype": "vnd.fdsn.seed",
+      "ref": "[Chad_Trabant]"
+    },
+    {
+      "subtype": "vnd.ffsns",
+      "ref": "[Holstage]"
+    },
+    {
+      "subtype": "vnd.fints",
+      "ref": "[Hammann]"
+    },
+    {
+      "subtype": "vnd.FloGraphIt",
+      "ref": "[Floersch]"
+    },
+    {
+      "subtype": "vnd.fluxtime.clip",
+      "ref": "[Marc_Winter]"
+    },
+    {
+      "subtype": "vnd.font-fontforge-sfd",
+      "ref": "[George_Williams]"
+    },
+    {
+      "subtype": "vnd.framemaker",
+      "ref": "[Mike_Wexler]"
+    },
+    {
+      "subtype": "vnd.frogans.fnc",
+      "ref": "[Alexis_Tamas]"
+    },
+    {
+      "subtype": "vnd.frogans.ltf",
+      "ref": "[Alexis_Tamas]"
+    },
+    {
+      "subtype": "vnd.fsc.weblaunch",
+      "ref": "[D.Smith]"
+    },
+    {
+      "subtype": "vnd.fujitsu.oasys",
+      "ref": "[Nobukazu_Togashi]"
+    },
+    {
+      "subtype": "vnd.fujitsu.oasys2",
+      "ref": "[Nobukazu_Togashi]"
+    },
+    {
+      "subtype": "vnd.fujitsu.oasys3",
+      "ref": "[Seiji_Okudaira]"
+    },
+    {
+      "subtype": "vnd.fujitsu.oasysgp",
+      "ref": "[Masahiko_Sugimoto]"
+    },
+    {
+      "subtype": "vnd.fujitsu.oasysprs",
+      "ref": "[Masumi_Ogita]"
+    },
+    {
+      "subtype": "vnd.fujixerox.ART4",
+      "ref": "[Fumio_Tanabe]"
+    },
+    {
+      "subtype": "vnd.fujixerox.ART-EX",
+      "ref": "[Fumio_Tanabe]"
+    },
+    {
+      "subtype": "vnd.fujixerox.ddd",
+      "ref": "[Masanori_Onda]"
+    },
+    {
+      "subtype": "vnd.fujixerox.docuworks",
+      "ref": "[Yasuo_Taguchi]"
+    },
+    {
+      "subtype": "vnd.fujixerox.docuworks.binder",
+      "ref": "[Takashi_Matsumoto]"
+    },
+    {
+      "subtype": "vnd.fujixerox.docuworks.container",
+      "ref": "[Kiyoshi_Tashiro]"
+    },
+    {
+      "subtype": "vnd.fujixerox.HBPL",
+      "ref": "[Fumio_Tanabe]"
+    },
+    {
+      "subtype": "vnd.fut-misnet",
+      "ref": "[Jann_Pruulman]"
+    },
+    {
+      "subtype": "vnd.fuzzysheet",
+      "ref": "[Birtwistle]"
+    },
+    {
+      "subtype": "vnd.genomatix.tuxedo",
+      "ref": "[Frey]"
+    },
+    {
+      "subtype": "vnd.geocube+xml - OBSOLETE",
+      "ref": "[Francois_Pirsch]"
+    },
+    {
+      "subtype": "vnd.geogebra.file",
+      "ref": "[GeoGebra][Yves_Kreis]"
+    },
+    {
+      "subtype": "vnd.geogebra.tool",
+      "ref": "[GeoGebra][Yves_Kreis]"
+    },
+    {
+      "subtype": "vnd.geometry-explorer",
+      "ref": "[Hvidsten]"
+    },
+    {
+      "subtype": "vnd.geonext",
+      "ref": "[Ehmann]"
+    },
+    {
+      "subtype": "vnd.geoplan",
+      "ref": "[Christian_Mercat]"
+    },
+    {
+      "subtype": "vnd.geospace",
+      "ref": "[Christian_Mercat]"
+    },
+    {
+      "subtype": "vnd.globalplatform.card-content-mgt",
+      "ref": "[Bernabeu]"
+    },
+    {
+      "subtype": "vnd.globalplatform.card-content-mgt-response",
+      "ref": "[Bernabeu]"
+    },
+    {
+      "subtype": "vnd.gmx - OBSOLETE",
+      "ref": "[Christian_V._Sciberras]"
+    },
+    {
+      "subtype": "vnd.google-earth.kml+xml",
+      "ref": "[Ashbridge]"
+    },
+    {
+      "subtype": "vnd.google-earth.kmz",
+      "ref": "[Ashbridge]"
+    },
+    {
+      "subtype": "vnd.grafeq",
+      "ref": "[Jeff_Tupper]"
+    },
+    {
+      "subtype": "vnd.gridmp",
+      "ref": "[Jeff_Lawson]"
+    },
+    {
+      "subtype": "vnd.groove-account",
+      "ref": "[Joseph]"
+    },
+    {
+      "subtype": "vnd.groove-help",
+      "ref": "[Joseph]"
+    },
+    {
+      "subtype": "vnd.groove-identity-message",
+      "ref": "[Joseph]"
+    },
+    {
+      "subtype": "vnd.groove-injector",
+      "ref": "[Joseph]"
+    },
+    {
+      "subtype": "vnd.groove-tool-message",
+      "ref": "[Joseph]"
+    },
+    {
+      "subtype": "vnd.groove-tool-template",
+      "ref": "[Joseph]"
+    },
+    {
+      "subtype": "vnd.groove-vcard",
+      "ref": "[Joseph]"
+    },
+    {
+      "subtype": "vnd.hal+json",
+      "ref": "[Kelly]"
+    },
+    {
+      "subtype": "vnd.hal+xml",
+      "ref": "[Kelly]"
+    },
+    {
+      "subtype": "vnd.HandHeld-Entertainment+xml",
+      "ref": "[Hamilton]"
+    },
+    {
+      "subtype": "vnd.hbci",
+      "ref": "[Hammann]"
+    },
+    {
+      "subtype": "vnd.hcl-bireports",
+      "ref": "[Doug_R._Serres]"
+    },
+    {
+      "subtype": "vnd.heroku+json",
+      "ref": "[Beary]"
+    },
+    {
+      "subtype": "vnd.hhe.lesson-player",
+      "ref": "[Jones]"
+    },
+    {
+      "subtype": "vnd.hp-HPGL",
+      "ref": "[Bob_Pentecost]"
+    },
+    {
+      "subtype": "vnd.hp-hpid",
+      "ref": "[Gupta]"
+    },
+    {
+      "subtype": "vnd.hp-hps",
+      "ref": "[Aubrey]"
+    },
+    {
+      "subtype": "vnd.hp-jlyt",
+      "ref": "[Gaash]"
+    },
+    {
+      "subtype": "vnd.hp-PCL",
+      "ref": "[Bob_Pentecost]"
+    },
+    {
+      "subtype": "vnd.hp-PCLXL",
+      "ref": "[Bob_Pentecost]"
+    },
+    {
+      "subtype": "vnd.httphone",
+      "ref": "[Franck_Lefevre]"
+    },
+    {
+      "subtype": "vnd.hydrostatix.sof-data",
+      "ref": "[Gillam]"
+    },
+    {
+      "subtype": "vnd.hzn-3d-crossword",
+      "ref": "[James_Minnis]"
+    },
+    {
+      "subtype": "vnd.ibm.afplinedata",
+      "ref": "[Buis]"
+    },
+    {
+      "subtype": "vnd.ibm.electronic-media",
+      "ref": "[Bruce_Tantlinger]"
+    },
+    {
+      "subtype": "vnd.ibm.MiniPay",
+      "ref": "[Herzberg]"
+    },
+    {
+      "subtype": "vnd.ibm.modcap",
+      "ref": "[Hohensee]"
+    },
+    {
+      "subtype": "vnd.ibm.rights-management",
+      "ref": "[Bruce_Tantlinger]"
+    },
+    {
+      "subtype": "vnd.ibm.secure-container",
+      "ref": "[Bruce_Tantlinger]"
+    },
+    {
+      "subtype": "vnd.iccprofile",
+      "ref": "[Green]"
+    },
+    {
+      "subtype": "vnd.ieee.1905",
+      "ref": "[Purva_R_Rajkotia]"
+    },
+    {
+      "subtype": "vnd.igloader",
+      "ref": "[Fisher]"
+    },
+    {
+      "subtype": "vnd.immervision-ivp",
+      "ref": "[Mathieu_Villegas]"
+    },
+    {
+      "subtype": "vnd.immervision-ivu",
+      "ref": "[Mathieu_Villegas]"
+    },
+    {
+      "subtype": "vnd.informedcontrol.rms+xml",
+      "ref": "[Mark_Wahl]"
+    },
+    {
+      "subtype": "vnd.infotech.project",
+      "ref": "[Engelke]"
+    },
+    {
+      "subtype": "vnd.infotech.project+xml",
+      "ref": "[Engelke]"
+    },
+    {
+      "subtype": "vnd.informix-visionary",
+      "ref": "[Gales]"
+    },
+    {
+      "subtype": "vnd.innopath.wamp.notification",
+      "ref": "[Takanori_Sudo]"
+    },
+    {
+      "subtype": "vnd.insors.igm",
+      "ref": "[Jon_Swanson]"
+    },
+    {
+      "subtype": "vnd.intercon.formnet",
+      "ref": "[Gurak]"
+    },
+    {
+      "subtype": "vnd.intergeo",
+      "ref": "[Yves_Kreis_2]"
+    },
+    {
+      "subtype": "vnd.intertrust.digibox",
+      "ref": "[Luke_Tomasello]"
+    },
+    {
+      "subtype": "vnd.intertrust.nncp",
+      "ref": "[Luke_Tomasello]"
+    },
+    {
+      "subtype": "vnd.intu.qbo",
+      "ref": "[Greg_Scratchley]"
+    },
+    {
+      "subtype": "vnd.intu.qfx",
+      "ref": "[Greg_Scratchley]"
+    },
+    {
+      "subtype": "vnd.iptc.g2.conceptitem+xml",
+      "ref": "[Michael_Steidl]"
+    },
+    {
+      "subtype": "vnd.iptc.g2.knowledgeitem+xml",
+      "ref": "[Michael_Steidl]"
+    },
+    {
+      "subtype": "vnd.iptc.g2.newsitem+xml",
+      "ref": "[Michael_Steidl]"
+    },
+    {
+      "subtype": "vnd.iptc.g2.newsmessage+xml",
+      "ref": "[Michael_Steidl]"
+    },
+    {
+      "subtype": "vnd.iptc.g2.packageitem+xml",
+      "ref": "[Michael_Steidl]"
+    },
+    {
+      "subtype": "vnd.iptc.g2.planningitem+xml",
+      "ref": "[Michael_Steidl]"
+    },
+    {
+      "subtype": "vnd.ipunplugged.rcprofile",
+      "ref": "[Ersson]"
+    },
+    {
+      "subtype": "vnd.irepository.package+xml",
+      "ref": "[Knowles]"
+    },
+    {
+      "subtype": "vnd.is-xpr",
+      "ref": "[Satish_Navarajan]"
+    },
+    {
+      "subtype": "vnd.isac.fcs",
+      "ref": "[Ryan_Brinkman]"
+    },
+    {
+      "subtype": "vnd.jam",
+      "ref": "[B.Kumar]"
+    },
+    {
+      "subtype": "vnd.japannet-directory-service",
+      "ref": "[Fujii]"
+    },
+    {
+      "subtype": "vnd.japannet-jpnstore-wakeup",
+      "ref": "[Jun_Yoshitake]"
+    },
+    {
+      "subtype": "vnd.japannet-payment-wakeup",
+      "ref": "[Fujii]"
+    },
+    {
+      "subtype": "vnd.japannet-registration",
+      "ref": "[Jun_Yoshitake]"
+    },
+    {
+      "subtype": "vnd.japannet-registration-wakeup",
+      "ref": "[Fujii]"
+    },
+    {
+      "subtype": "vnd.japannet-setstore-wakeup",
+      "ref": "[Jun_Yoshitake]"
+    },
+    {
+      "subtype": "vnd.japannet-verification",
+      "ref": "[Jun_Yoshitake]"
+    },
+    {
+      "subtype": "vnd.japannet-verification-wakeup",
+      "ref": "[Fujii]"
+    },
+    {
+      "subtype": "vnd.jcp.javame.midlet-rms",
+      "ref": "[Gorshenev]"
+    },
+    {
+      "subtype": "vnd.jisp",
+      "ref": "[Deckers]"
+    },
+    {
+      "subtype": "vnd.joost.joda-archive",
+      "ref": "[Joost]"
+    },
+    {
+      "subtype": "vnd.jsk.isdn-ngn",
+      "ref": "[Kiyonobu]"
+    },
+    {
+      "subtype": "vnd.kahootz",
+      "ref": "[Tim_Macdonald]"
+    },
+    {
+      "subtype": "vnd.kde.karbon",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kde.kchart",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kde.kformula",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kde.kivio",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kde.kontour",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kde.kpresenter",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kde.kspread",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kde.kword",
+      "ref": "[Faure]"
+    },
+    {
+      "subtype": "vnd.kenameaapp",
+      "ref": "[DiGiorgio-Haag]"
+    },
+    {
+      "subtype": "vnd.kidspiration",
+      "ref": "[Bennett]"
+    },
+    {
+      "subtype": "vnd.Kinar",
+      "ref": "[Hemant_Thakkar]"
+    },
+    {
+      "subtype": "vnd.koan",
+      "ref": "[Cole]"
+    },
+    {
+      "subtype": "vnd.kodak-descriptor",
+      "ref": "[Donahue]"
+    },
+    {
+      "subtype": "vnd.las.las+xml",
+      "ref": "[Rob_Bailey]"
+    },
+    {
+      "subtype": "vnd.liberty-request+xml",
+      "ref": "[Brett_McDowell]"
+    },
+    {
+      "subtype": "vnd.llamagraphics.life-balance.desktop",
+      "ref": "[Catherine_E._White]"
+    },
+    {
+      "subtype": "vnd.llamagraphics.life-balance.exchange+xml",
+      "ref": "[Catherine_E._White]"
+    },
+    {
+      "subtype": "vnd.lotus-1-2-3",
+      "ref": "[Paul_Wattenberger]"
+    },
+    {
+      "subtype": "vnd.lotus-approach",
+      "ref": "[Paul_Wattenberger]"
+    },
+    {
+      "subtype": "vnd.lotus-freelance",
+      "ref": "[Paul_Wattenberger]"
+    },
+    {
+      "subtype": "vnd.lotus-notes",
+      "ref": "[Michael_Laramie]"
+    },
+    {
+      "subtype": "vnd.lotus-organizer",
+      "ref": "[Paul_Wattenberger]"
+    },
+    {
+      "subtype": "vnd.lotus-screencam",
+      "ref": "[Paul_Wattenberger]"
+    },
+    {
+      "subtype": "vnd.lotus-wordpro",
+      "ref": "[Paul_Wattenberger]"
+    },
+    {
+      "subtype": "vnd.macports.portpkg",
+      "ref": "[Berry]"
+    },
+    {
+      "subtype": "vnd.marlin.drm.actiontoken+xml",
+      "ref": "[Ellison]"
+    },
+    {
+      "subtype": "vnd.marlin.drm.conftoken+xml",
+      "ref": "[Ellison]"
+    },
+    {
+      "subtype": "vnd.marlin.drm.license+xml",
+      "ref": "[Ellison]"
+    },
+    {
+      "subtype": "vnd.marlin.drm.mdcf",
+      "ref": "[Ellison]"
+    },
+    {
+      "subtype": "vnd.mcd",
+      "ref": "[Gotoh]"
+    },
+    {
+      "subtype": "vnd.medcalcdata",
+      "ref": "[Frank_Schoonjans]"
+    },
+    {
+      "subtype": "vnd.mediastation.cdkey",
+      "ref": "[Flurry]"
+    },
+    {
+      "subtype": "vnd.meridian-slingshot",
+      "ref": "[Eric_Wedel]"
+    },
+    {
+      "subtype": "vnd.MFER",
+      "ref": "[Hirai]"
+    },
+    {
+      "subtype": "vnd.mfmp",
+      "ref": "[Ikeda]"
+    },
+    {
+      "subtype": "vnd.micrografx.flo",
+      "ref": "[Joe_Prevo]"
+    },
+    {
+      "subtype": "vnd.micrografx.igx",
+      "ref": "[Joe_Prevo]"
+    },
+    {
+      "subtype": "vnd.mif",
+      "ref": "[Mike_Wexler]"
+    },
+    {
+      "subtype": "vnd.minisoft-hp3000-save",
+      "ref": "[Bartram]"
+    },
+    {
+      "subtype": "vnd.mitsubishi.misty-guard.trustweb",
+      "ref": "[Tanaka]"
+    },
+    {
+      "subtype": "vnd.Mobius.DAF",
+      "ref": "[Kabayama]"
+    },
+    {
+      "subtype": "vnd.Mobius.DIS",
+      "ref": "[Kabayama]"
+    },
+    {
+      "subtype": "vnd.Mobius.MBK",
+      "ref": "[Devasia]"
+    },
+    {
+      "subtype": "vnd.Mobius.MQY",
+      "ref": "[Devasia]"
+    },
+    {
+      "subtype": "vnd.Mobius.MSL",
+      "ref": "[Kabayama]"
+    },
+    {
+      "subtype": "vnd.Mobius.PLC",
+      "ref": "[Kabayama]"
+    },
+    {
+      "subtype": "vnd.Mobius.TXF",
+      "ref": "[Kabayama]"
+    },
+    {
+      "subtype": "vnd.mophun.application",
+      "ref": "[Bjorn_Wennerstrom]"
+    },
+    {
+      "subtype": "vnd.mophun.certificate",
+      "ref": "[Bjorn_Wennerstrom]"
+    },
+    {
+      "subtype": "vnd.motorola.flexsuite",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.motorola.flexsuite.adsi",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.motorola.flexsuite.fis",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.motorola.flexsuite.gotap",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.motorola.flexsuite.kmr",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.motorola.flexsuite.ttc",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.motorola.flexsuite.wem",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.motorola.iprm",
+      "ref": "[Rafie_Shamsaasef]"
+    },
+    {
+      "subtype": "vnd.mozilla.xul+xml",
+      "ref": "[Braden_N_McDaniel]"
+    },
+    {
+      "subtype": "vnd.ms-artgalry",
+      "ref": "[Dean_Slawson]"
+    },
+    {
+      "subtype": "vnd.ms-asf",
+      "ref": "[Fleischman]"
+    },
+    {
+      "subtype": "vnd.ms-cab-compressed",
+      "ref": "[Kim_Scarborough]"
+    },
+    {
+      "subtype": "vnd.mseq",
+      "ref": "[Gwenael_Le_Bodic]"
+    },
+    {
+      "subtype": "vnd.ms-excel",
+      "ref": "[Gill]"
+    },
+    {
+      "subtype": "vnd.ms-excel.addin.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-excel.sheet.binary.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-excel.sheet.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-excel.template.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-fontobject",
+      "ref": "[Kim_Scarborough]"
+    },
+    {
+      "subtype": "vnd.ms-htmlhelp",
+      "ref": "[Anatoly_Techtonik]"
+    },
+    {
+      "subtype": "vnd.ms-ims",
+      "ref": "[Eric_Ledoux]"
+    },
+    {
+      "subtype": "vnd.ms-lrm",
+      "ref": "[Eric_Ledoux]"
+    },
+    {
+      "subtype": "vnd.ms-office.activeX+xml",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-officetheme",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-playready.initiator+xml",
+      "ref": "[Daniel_Schneider]"
+    },
+    {
+      "subtype": "vnd.ms-powerpoint",
+      "ref": "[Gill]"
+    },
+    {
+      "subtype": "vnd.ms-powerpoint.addin.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-powerpoint.presentation.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-powerpoint.slide.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-powerpoint.slideshow.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-powerpoint.template.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-project",
+      "ref": "[Gill]"
+    },
+    {
+      "subtype": "vnd.ms-tnef",
+      "ref": "[Gill]"
+    },
+    {
+      "subtype": "vnd.ms-windows.printerpairing",
+      "ref": "[Hutchings]"
+    },
+    {
+      "subtype": "vnd.ms-wmdrm.lic-chlg-req",
+      "ref": "[Kevin_Lau]"
+    },
+    {
+      "subtype": "vnd.ms-wmdrm.lic-resp",
+      "ref": "[Kevin_Lau]"
+    },
+    {
+      "subtype": "vnd.ms-wmdrm.meter-chlg-req",
+      "ref": "[Kevin_Lau]"
+    },
+    {
+      "subtype": "vnd.ms-wmdrm.meter-resp",
+      "ref": "[Kevin_Lau]"
+    },
+    {
+      "subtype": "vnd.ms-word.document.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-word.template.macroEnabled.12",
+      "ref": "[Chris_Rae]"
+    },
+    {
+      "subtype": "vnd.ms-works",
+      "ref": "[Gill]"
+    },
+    {
+      "subtype": "vnd.ms-wpl",
+      "ref": "[Dan_Plastina]"
+    },
+    {
+      "subtype": "vnd.ms-xpsdocument",
+      "ref": "[Jesse_McGatha]"
+    },
+    {
+      "subtype": "vnd.msign",
+      "ref": "[Borcherding]"
+    },
+    {
+      "subtype": "vnd.multiad.creator",
+      "ref": "[Steve_Mills]"
+    },
+    {
+      "subtype": "vnd.multiad.creator.cif",
+      "ref": "[Steve_Mills]"
+    },
+    {
+      "subtype": "vnd.musician",
+      "ref": "[Adams]"
+    },
+    {
+      "subtype": "vnd.music-niff",
+      "ref": "[Butler]"
+    },
+    {
+      "subtype": "vnd.muvee.style",
+      "ref": "[Anantharamu]"
+    },
+    {
+      "subtype": "vnd.mynfc",
+      "ref": "[Franck_Lefevre]"
+    },
+    {
+      "subtype": "vnd.ncd.control",
+      "ref": "[Lauri_Tarkkala]"
+    },
+    {
+      "subtype": "vnd.ncd.reference",
+      "ref": "[Lauri_Tarkkala]"
+    },
+    {
+      "subtype": "vnd.nervana",
+      "ref": "[Judkins]"
+    },
+    {
+      "subtype": "vnd.netfpx",
+      "ref": "[Andy_Mutz]"
+    },
+    {
+      "subtype": "vnd.neurolanguage.nlu",
+      "ref": "[DuFeu]"
+    },
+    {
+      "subtype": "vnd.nintendo.snes.rom",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.nintendo.nitro.rom",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.nitf",
+      "ref": "[Steve_Rogan]"
+    },
+    {
+      "subtype": "vnd.noblenet-directory",
+      "ref": "[Monty_Solomon]"
+    },
+    {
+      "subtype": "vnd.noblenet-sealer",
+      "ref": "[Monty_Solomon]"
+    },
+    {
+      "subtype": "vnd.noblenet-web",
+      "ref": "[Monty_Solomon]"
+    },
+    {
+      "subtype": "vnd.nokia.catalogs",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.conml+wbxml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.conml+xml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.iptv.config+xml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.iSDS-radio-presets",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.landmark+wbxml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.landmark+xml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.landmarkcollection+xml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.ncd",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.n-gage.ac+xml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.n-gage.data",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.n-gage.symbian.install",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.pcd+wbxml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.pcd+xml",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.radio-preset",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nokia.radio-presets",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.novadigm.EDM",
+      "ref": "[Janine_Swenson]"
+    },
+    {
+      "subtype": "vnd.novadigm.EDX",
+      "ref": "[Janine_Swenson]"
+    },
+    {
+      "subtype": "vnd.novadigm.EXT",
+      "ref": "[Janine_Swenson]"
+    },
+    {
+      "subtype": "vnd.ntt-local.content-share",
+      "ref": "[Akinori_Taya]"
+    },
+    {
+      "subtype": "vnd.ntt-local.file-transfer",
+      "ref": "[NTT-local]"
+    },
+    {
+      "subtype": "vnd.ntt-local.sip-ta_remote",
+      "ref": "[NTT-local]"
+    },
+    {
+      "subtype": "vnd.ntt-local.sip-ta_tcp_stream",
+      "ref": "[NTT-local]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.chart",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.chart-template",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.database",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.formula",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.formula-template",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.graphics",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.graphics-template",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.image",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.image-template",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.presentation",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.presentation-template",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.spreadsheet",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.spreadsheet-template",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.text",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.text-master",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.text-template",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.oasis.opendocument.text-web",
+      "ref": "[Svante_Schubert][OASIS]"
+    },
+    {
+      "subtype": "vnd.obn",
+      "ref": "[Hessling]"
+    },
+    {
+      "subtype": "vnd.oftn.l10n+json",
+      "ref": "[Grey]"
+    },
+    {
+      "subtype": "vnd.oipf.contentaccessdownload+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.contentaccessstreaming+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.cspg-hexbinary",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.dae.svg+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.dae.xhtml+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.mippvcontrolmessage+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.pae.gem",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.spdiscovery+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.spdlist+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.ueprofile+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.oipf.userprofile+xml",
+      "ref": "[DEsclercs]"
+    },
+    {
+      "subtype": "vnd.olpc-sugar",
+      "ref": "[John_Palmieri]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.associated-procedure-parameter+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.drm-trigger+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.imd+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.ltkm",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.notification+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.provisioningtrigger",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.sgboot",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.sgdd+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.sgdu",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.simple-symbol-container",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.smartcard-trigger+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.sprov+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.bcast.stkm",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.cab-address-book+xml",
+      "ref": "[Hao_Wang][OMA]"
+    },
+    {
+      "subtype": "vnd.oma.cab-feature-handler+xml",
+      "ref": "[Hao_Wang][OMA]"
+    },
+    {
+      "subtype": "vnd.oma.cab-pcc+xml",
+      "ref": "[Hao_Wang][OMA]"
+    },
+    {
+      "subtype": "vnd.oma.cab-subs-invite+xml",
+      "ref": "[Hao_Wang][OMA]"
+    },
+    {
+      "subtype": "vnd.oma.cab-user-prefs+xml",
+      "ref": "[Hao_Wang][OMA]"
+    },
+    {
+      "subtype": "vnd.oma.dcd",
+      "ref": "[Avi_Primo][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.dcdc",
+      "ref": "[Avi_Primo][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.dd2+xml",
+      "ref": "[Jun_Sato][Open_Mobile_Alliance_BAC_DLDRM_Working_Group]"
+    },
+    {
+      "subtype": "vnd.oma.drm.risd+xml",
+      "ref": "[Uwe_Rauschenbach][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.group-usage-list+xml",
+      "ref": "[Kelley][OMA_Presence_and_Availability_PAG_Working_Group]"
+    },
+    {
+      "subtype": "vnd.oma.pal+xml",
+      "ref": "[Brian_McColgan][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.poc.detailed-progress-report+xml",
+      "ref": "[OMA_Push_to_Talk_over_Cellular_POC_Working_Group]"
+    },
+    {
+      "subtype": "vnd.oma.poc.final-report+xml",
+      "ref": "[OMA_Push_to_Talk_over_Cellular_POC_Working_Group]"
+    },
+    {
+      "subtype": "vnd.oma.poc.groups+xml",
+      "ref": "[Kelley][OMA_Push_to_Talk_over_Cellular_POC_Working_Group]"
+    },
+    {
+      "subtype": "vnd.oma.poc.invocation-descriptor+xml",
+      "ref": "[OMA_Push_to_Talk_over_Cellular_POC_Working_Group]"
+    },
+    {
+      "subtype": "vnd.oma.poc.optimized-progress-report+xml",
+      "ref": "[OMA_Push_to_Talk_over_Cellular_POC_Working_Group]"
+    },
+    {
+      "subtype": "vnd.oma.push",
+      "ref": "[Bryan_Sullivan][OMA]"
+    },
+    {
+      "subtype": "vnd.oma.scidm.messages+xml",
+      "ref": "[Wenjun_Zeng][OMNA-Open_Mobile_Naming_Authority]"
+    },
+    {
+      "subtype": "vnd.oma.xcap-directory+xml",
+      "ref": "[Kelley][OMA_Presence_and_Availability_PAG_Working_Group]"
+    },
+    {
+      "subtype": "vnd.omads-email+xml",
+      "ref": "[OMA_Data_Synchronization_Working_Group]"
+    },
+    {
+      "subtype": "vnd.omads-file+xml",
+      "ref": "[OMA_Data_Synchronization_Working_Group]"
+    },
+    {
+      "subtype": "vnd.omads-folder+xml",
+      "ref": "[OMA_Data_Synchronization_Working_Group]"
+    },
+    {
+      "subtype": "vnd.omaloc-supl-init",
+      "ref": "[Grange]"
+    },
+    {
+      "subtype": "vnd.oma-scws-config",
+      "ref": "[Ilan_Mahalal]"
+    },
+    {
+      "subtype": "vnd.oma-scws-http-request",
+      "ref": "[Ilan_Mahalal]"
+    },
+    {
+      "subtype": "vnd.oma-scws-http-response",
+      "ref": "[Ilan_Mahalal]"
+    },
+    {
+      "subtype": "vnd.openeye.oeb",
+      "ref": "[Bruce]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.custom-properties+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.customXmlProperties+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.drawing+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.drawingml.chart+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.drawingml.chartshapes+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.drawingml.diagramColors+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.drawingml.diagramData+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.extended-properties+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.comments+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.notesMaster+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.notesSlide+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.presentation",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.presentation.main+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.presProps+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.slide",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.slide+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.slideLayout+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.slideMaster+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.slideshow",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.tableStyles+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.tags+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.template",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.template.main+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.presentationml.viewProps+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.comments+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.connections+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.styles+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.table+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.template",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.theme+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.themeOverride+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.vmlDrawing",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.comments+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.footer+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.settings+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.styles+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.template",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-package.core-properties+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-package.digital-signature-xmlsignature+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.openxmlformats-package.relationships+xml",
+      "ref": "[Makoto_Murata]"
+    },
+    {
+      "subtype": "vnd.orange.indata",
+      "ref": "[CHATRAS_Bruno]"
+    },
+    {
+      "subtype": "vnd.osa.netdeploy",
+      "ref": "[Klos]"
+    },
+    {
+      "subtype": "vnd.osgeo.mapguide.package",
+      "ref": "[Birch]"
+    },
+    {
+      "subtype": "vnd.osgi.bundle",
+      "ref": "[Peter_Kriens]"
+    },
+    {
+      "subtype": "vnd.osgi.dp",
+      "ref": "[Peter_Kriens]"
+    },
+    {
+      "subtype": "vnd.osgi.subsystem",
+      "ref": "[Peter_Kriens]"
+    },
+    {
+      "subtype": "vnd.otps.ct-kip+xml",
+      "ref": "[Magnus_Nystrom]"
+    },
+    {
+      "subtype": "vnd.palm",
+      "ref": "[Gavin_Peacock]"
+    },
+    {
+      "subtype": "vnd.paos.xml",
+      "ref": "[Kemp]"
+    },
+    {
+      "subtype": "vnd.pawaafile",
+      "ref": "[Baskaran]"
+    },
+    {
+      "subtype": "vnd.pg.format",
+      "ref": "[Gandert]"
+    },
+    {
+      "subtype": "vnd.pg.osasli",
+      "ref": "[Gandert]"
+    },
+    {
+      "subtype": "vnd.piaccess.application-licence",
+      "ref": "[Lucas_Maneos]"
+    },
+    {
+      "subtype": "vnd.picsel",
+      "ref": "[Giuseppe_Naccarato]"
+    },
+    {
+      "subtype": "vnd.pmi.widget",
+      "ref": "[Rhys_Lewis]"
+    },
+    {
+      "subtype": "vnd.poc.group-advertisement+xml",
+      "ref": "[Kelley][OMA_Push_to_Talk_over_Cellular_POC_Working_Group]"
+    },
+    {
+      "subtype": "vnd.pocketlearn",
+      "ref": "[Jorge_Pando]"
+    },
+    {
+      "subtype": "vnd.powerbuilder6",
+      "ref": "[Guy]"
+    },
+    {
+      "subtype": "vnd.powerbuilder6-s",
+      "ref": "[Guy]"
+    },
+    {
+      "subtype": "vnd.powerbuilder7",
+      "ref": "[Reed_Shilts]"
+    },
+    {
+      "subtype": "vnd.powerbuilder75",
+      "ref": "[Reed_Shilts]"
+    },
+    {
+      "subtype": "vnd.powerbuilder75-s",
+      "ref": "[Reed_Shilts]"
+    },
+    {
+      "subtype": "vnd.powerbuilder7-s",
+      "ref": "[Reed_Shilts]"
+    },
+    {
+      "subtype": "vnd.preminet",
+      "ref": "[Juoko_Tenhunen]"
+    },
+    {
+      "subtype": "vnd.previewsystems.box",
+      "ref": "[Roman_Smolgovsky]"
+    },
+    {
+      "subtype": "vnd.proteus.magazine",
+      "ref": "[Hoch]"
+    },
+    {
+      "subtype": "vnd.publishare-delta-tree",
+      "ref": "[Ben-Kiki]"
+    },
+    {
+      "subtype": "vnd.pvi.ptid1",
+      "ref": "[Charles_P._Lamb]"
+    },
+    {
+      "subtype": "vnd.pwg-multiplexed",
+      "ref": "[RFC3391]"
+    },
+    {
+      "subtype": "vnd.pwg-xhtml-print+xml",
+      "ref": "[Don_Wright]"
+    },
+    {
+      "subtype": "vnd.qualcomm.brew-app-res",
+      "ref": "[Forrester]"
+    },
+    {
+      "subtype": "vnd.Quark.QuarkXPress",
+      "ref": "[Hannes_Scheidler]"
+    },
+    {
+      "subtype": "vnd.quobject-quoxdocument",
+      "ref": "[Matthias_Ludwig]"
+    },
+    {
+      "subtype": "vnd.radisys.moml+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-audit-conf+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-audit-conn+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-audit-dialog+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-audit-stream+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-audit+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-conf+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-dialog-base+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-dialog-fax-detect+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-dialog-fax-sendrecv+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-dialog-group+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-dialog-speech+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-dialog-transform+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-dialog+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.radisys.msml+xml",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.rainstor.data",
+      "ref": "[Crook]"
+    },
+    {
+      "subtype": "vnd.rapid",
+      "ref": "[Etay_Szekely]"
+    },
+    {
+      "subtype": "vnd.realvnc.bed",
+      "ref": "[Nick_Reeves]"
+    },
+    {
+      "subtype": "vnd.recordare.musicxml",
+      "ref": "[Good]"
+    },
+    {
+      "subtype": "vnd.recordare.musicxml+xml",
+      "ref": "[Good]"
+    },
+    {
+      "subtype": "vnd.RenLearn.rlprint",
+      "ref": "[James_Wick]"
+    },
+    {
+      "subtype": "vnd.rig.cryptonote",
+      "ref": "[Jibiki]"
+    },
+    {
+      "subtype": "vnd.route66.link66+xml",
+      "ref": "[Kikstra]"
+    },
+    {
+      "subtype": "vnd.rs-274x",
+      "ref": "[Harding]"
+    },
+    {
+      "subtype": "vnd.ruckus.download",
+      "ref": "[Harris]"
+    },
+    {
+      "subtype": "vnd.s3sms",
+      "ref": "[Lauri_Tarkkala]"
+    },
+    {
+      "subtype": "vnd.sailingtracker.track",
+      "ref": "[Heikki_Vesalainen]"
+    },
+    {
+      "subtype": "vnd.sbm.cid",
+      "ref": "[Shinji_Kusakari]"
+    },
+    {
+      "subtype": "vnd.sbm.mid2",
+      "ref": "[Masanori_Murai]"
+    },
+    {
+      "subtype": "vnd.scribus",
+      "ref": "[Bradney]"
+    },
+    {
+      "subtype": "vnd.sealed.3df",
+      "ref": "[John_Kwan]"
+    },
+    {
+      "subtype": "vnd.sealed.csf",
+      "ref": "[John_Kwan]"
+    },
+    {
+      "subtype": "vnd.sealed.doc",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealed.eml",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealed.mht",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealed.net",
+      "ref": "[Martin_Lambert]"
+    },
+    {
+      "subtype": "vnd.sealed.ppt",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealed.tiff",
+      "ref": "[John_Kwan][Martin_Lambert]"
+    },
+    {
+      "subtype": "vnd.sealed.xls",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealedmedia.softseal.html",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealedmedia.softseal.pdf",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.seemail",
+      "ref": "[Steve_Webb]"
+    },
+    {
+      "subtype": "vnd.sema",
+      "ref": "[Hansson]"
+    },
+    {
+      "subtype": "vnd.semd",
+      "ref": "[Hansson]"
+    },
+    {
+      "subtype": "vnd.semf",
+      "ref": "[Hansson]"
+    },
+    {
+      "subtype": "vnd.shana.informed.formdata",
+      "ref": "[Guy_Selzler]"
+    },
+    {
+      "subtype": "vnd.shana.informed.formtemplate",
+      "ref": "[Guy_Selzler]"
+    },
+    {
+      "subtype": "vnd.shana.informed.interchange",
+      "ref": "[Guy_Selzler]"
+    },
+    {
+      "subtype": "vnd.shana.informed.package",
+      "ref": "[Guy_Selzler]"
+    },
+    {
+      "subtype": "vnd.SimTech-MindMapper",
+      "ref": "[Koh]"
+    },
+    {
+      "subtype": "vnd.siren+json",
+      "ref": "[Kevin_Swiber]"
+    },
+    {
+      "subtype": "vnd.smaf",
+      "ref": "[Hiroaki_Takahashi]"
+    },
+    {
+      "subtype": "vnd.smart.notebook",
+      "ref": "[Jonathan_Neitz]"
+    },
+    {
+      "subtype": "vnd.smart.teacher",
+      "ref": "[Boyle]"
+    },
+    {
+      "subtype": "vnd.software602.filler.form+xml",
+      "ref": "[Hytka][Martin_Vondrous]"
+    },
+    {
+      "subtype": "vnd.software602.filler.form-xml-zip",
+      "ref": "[Hytka][Martin_Vondrous]"
+    },
+    {
+      "subtype": "vnd.solent.sdkm+xml",
+      "ref": "[Gauntlett]"
+    },
+    {
+      "subtype": "vnd.spotfire.dxp",
+      "ref": "[Jernberg]"
+    },
+    {
+      "subtype": "vnd.spotfire.sfs",
+      "ref": "[Jernberg]"
+    },
+    {
+      "subtype": "vnd.sss-cod",
+      "ref": "[Dani]"
+    },
+    {
+      "subtype": "vnd.sss-dtf",
+      "ref": "[Bruno]"
+    },
+    {
+      "subtype": "vnd.sss-ntf",
+      "ref": "[Bruno]"
+    },
+    {
+      "subtype": "vnd.stepmania.package",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.stepmania.stepchart",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.street-stream",
+      "ref": "[Glenn_Levitt]"
+    },
+    {
+      "subtype": "vnd.sun.wadl+xml",
+      "ref": "[Hadley]"
+    },
+    {
+      "subtype": "vnd.sus-calendar",
+      "ref": "[Jonathan_Niedfeldt]"
+    },
+    {
+      "subtype": "vnd.svd",
+      "ref": "[Becker]"
+    },
+    {
+      "subtype": "vnd.swiftview-ics",
+      "ref": "[Glenn_Widener]"
+    },
+    {
+      "subtype": "vnd.syncml.dm.notification",
+      "ref": "[Peter_Thompson][OMA-DM_Work_Group]"
+    },
+    {
+      "subtype": "vnd.syncml.dmddf+xml",
+      "ref": "[OMA-DM_Work_Group]"
+    },
+    {
+      "subtype": "vnd.syncml.dmtnds+wbxml",
+      "ref": "[OMA-DM_Work_Group]"
+    },
+    {
+      "subtype": "vnd.syncml.dmtnds+xml",
+      "ref": "[OMA-DM_Work_Group]"
+    },
+    {
+      "subtype": "vnd.syncml.dmddf+wbxml",
+      "ref": "[OMA-DM_Work_Group]"
+    },
+    {
+      "subtype": "vnd.syncml.dm+wbxml",
+      "ref": "[OMA-DM_Work_Group]"
+    },
+    {
+      "subtype": "vnd.syncml.dm+xml",
+      "ref": "[Bindu_Rama_Rao][OMA-DM_Work_Group]"
+    },
+    {
+      "subtype": "vnd.syncml.ds.notification",
+      "ref": "[OMA_Data_Synchronization_Working_Group]"
+    },
+    {
+      "subtype": "vnd.syncml+xml",
+      "ref": "[OMA_Data_Synchronization_Working_Group]"
+    },
+    {
+      "subtype": "vnd.tao.intent-module-archive",
+      "ref": "[Daniel_Shelton]"
+    },
+    {
+      "subtype": "vnd.tcpdump.pcap",
+      "ref": "[GHarris][Glen_Turner]"
+    },
+    {
+      "subtype": "vnd.tmobile-livetv",
+      "ref": "[Helin]"
+    },
+    {
+      "subtype": "vnd.trid.tpt",
+      "ref": "[Cusack]"
+    },
+    {
+      "subtype": "vnd.triscape.mxs",
+      "ref": "[Steven_Simonoff]"
+    },
+    {
+      "subtype": "vnd.trueapp",
+      "ref": "[Hepler]"
+    },
+    {
+      "subtype": "vnd.truedoc",
+      "ref": "[Chase]"
+    },
+    {
+      "subtype": "vnd.ubisoft.webplayer",
+      "ref": "[Martin_Talbot]"
+    },
+    {
+      "subtype": "vnd.ufdl",
+      "ref": "[Dave_Manning]"
+    },
+    {
+      "subtype": "vnd.uiq.theme",
+      "ref": "[Tim_Ocock]"
+    },
+    {
+      "subtype": "vnd.umajin",
+      "ref": "[Jamie_Riden]"
+    },
+    {
+      "subtype": "vnd.unity",
+      "ref": "[Unity3d]"
+    },
+    {
+      "subtype": "vnd.uoml+xml",
+      "ref": "[Gerdes]"
+    },
+    {
+      "subtype": "vnd.uplanet.alert",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.alert-wbxml",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.bearer-choice",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.bearer-choice-wbxml",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.cacheop",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.cacheop-wbxml",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.channel",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.channel-wbxml",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.list",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.listcmd",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.listcmd-wbxml",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.list-wbxml",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.uplanet.signal",
+      "ref": "[Bruce_Martin]"
+    },
+    {
+      "subtype": "vnd.vcx",
+      "ref": "[Taisuke_Sugimoto]"
+    },
+    {
+      "subtype": "vnd.vd-study",
+      "ref": "[Luc_Rogge]"
+    },
+    {
+      "subtype": "vnd.vectorworks",
+      "ref": "[Ferguson][Biplab_Sarkar]"
+    },
+    {
+      "subtype": "vnd.verimatrix.vcas",
+      "ref": "[Petr_Peterka]"
+    },
+    {
+      "subtype": "vnd.vidsoft.vidconference",
+      "ref": "[Hess]"
+    },
+    {
+      "subtype": "vnd.visio",
+      "ref": "[Troy_Sandal]"
+    },
+    {
+      "subtype": "vnd.visionary",
+      "ref": "[Aravindakumar]"
+    },
+    {
+      "subtype": "vnd.vividence.scriptfile",
+      "ref": "[Mark_Risher]"
+    },
+    {
+      "subtype": "vnd.vsf",
+      "ref": "[Delton_Rowe]"
+    },
+    {
+      "subtype": "vnd.wap.sic",
+      "ref": "[WAP-Forum]"
+    },
+    {
+      "subtype": "vnd.wap.slc",
+      "ref": "[WAP-Forum]"
+    },
+    {
+      "subtype": "vnd.wap.wbxml",
+      "ref": "[Peter_Stark]"
+    },
+    {
+      "subtype": "vnd.wap.wmlc",
+      "ref": "[Peter_Stark]"
+    },
+    {
+      "subtype": "vnd.wap.wmlscriptc",
+      "ref": "[Peter_Stark]"
+    },
+    {
+      "subtype": "vnd.webturbo",
+      "ref": "[Yaser_Rehem]"
+    },
+    {
+      "subtype": "vnd.wfa.p2p",
+      "ref": "[Conley]"
+    },
+    {
+      "subtype": "vnd.wfa.wsc",
+      "ref": "[Wi-Fi_Alliance]"
+    },
+    {
+      "subtype": "vnd.windows.devicepairing",
+      "ref": "[Dandawate]"
+    },
+    {
+      "subtype": "vnd.wmc",
+      "ref": "[Kjornes]"
+    },
+    {
+      "subtype": "vnd.wmf.bootstrap",
+      "ref": "[Thinh_Nguyenphu][Iyer]"
+    },
+    {
+      "subtype": "vnd.wolfram.mathematica",
+      "ref": "[Wolfram]"
+    },
+    {
+      "subtype": "vnd.wolfram.mathematica.package",
+      "ref": "[Wolfram]"
+    },
+    {
+      "subtype": "vnd.wolfram.player",
+      "ref": "[Wolfram]"
+    },
+    {
+      "subtype": "vnd.wordperfect",
+      "ref": "[Kim_Scarborough]"
+    },
+    {
+      "subtype": "vnd.wqd",
+      "ref": "[Bostrom]"
+    },
+    {
+      "subtype": "vnd.wrq-hp3000-labelled",
+      "ref": "[Bartram]"
+    },
+    {
+      "subtype": "vnd.wt.stf",
+      "ref": "[Bill_Wohler]"
+    },
+    {
+      "subtype": "vnd.wv.csp+xml",
+      "ref": "[Ingimundarson]"
+    },
+    {
+      "subtype": "vnd.wv.csp+wbxml",
+      "ref": "[Matti_Salmi]"
+    },
+    {
+      "subtype": "vnd.wv.ssp+xml",
+      "ref": "[Ingimundarson]"
+    },
+    {
+      "subtype": "vnd.xacml+json",
+      "ref": "[Brossard]"
+    },
+    {
+      "subtype": "vnd.xara",
+      "ref": "[David_Matthewman]"
+    },
+    {
+      "subtype": "vnd.xfdl",
+      "ref": "[Dave_Manning]"
+    },
+    {
+      "subtype": "vnd.xfdl.webform",
+      "ref": "[Michael_Mansell]"
+    },
+    {
+      "subtype": "vnd.xmi+xml",
+      "ref": "[Fred_Waskiewicz]"
+    },
+    {
+      "subtype": "vnd.xmpie.cpkg",
+      "ref": "[Reuven_Sherwin]"
+    },
+    {
+      "subtype": "vnd.xmpie.dpkg",
+      "ref": "[Reuven_Sherwin]"
+    },
+    {
+      "subtype": "vnd.xmpie.plan",
+      "ref": "[Reuven_Sherwin]"
+    },
+    {
+      "subtype": "vnd.xmpie.ppkg",
+      "ref": "[Reuven_Sherwin]"
+    },
+    {
+      "subtype": "vnd.xmpie.xlim",
+      "ref": "[Reuven_Sherwin]"
+    },
+    {
+      "subtype": "vnd.yamaha.hv-dic",
+      "ref": "[Tomohiro_Yamamoto]"
+    },
+    {
+      "subtype": "vnd.yamaha.hv-script",
+      "ref": "[Tomohiro_Yamamoto]"
+    },
+    {
+      "subtype": "vnd.yamaha.hv-voice",
+      "ref": "[Tomohiro_Yamamoto]"
+    },
+    {
+      "subtype": "vnd.yamaha.openscoreformat.osfpvg+xml",
+      "ref": "[Mark_Olleson]"
+    },
+    {
+      "subtype": "vnd.yamaha.openscoreformat",
+      "ref": "[Mark_Olleson]"
+    },
+    {
+      "subtype": "vnd.yamaha.remote-setup",
+      "ref": "[Takehiro_Sukizaki]"
+    },
+    {
+      "subtype": "vnd.yamaha.smaf-audio",
+      "ref": "[Keiichi_Shinoda]"
+    },
+    {
+      "subtype": "vnd.yamaha.smaf-phrase",
+      "ref": "[Keiichi_Shinoda]"
+    },
+    {
+      "subtype": "vnd.yamaha.through-ngn",
+      "ref": "[Takehiro_Sukizaki]"
+    },
+    {
+      "subtype": "vnd.yamaha.tunnel-udpencap",
+      "ref": "[Takehiro_Sukizaki]"
+    },
+    {
+      "subtype": "vnd.yellowriver-custom-menu",
+      "ref": "[Mr._Yellow]"
+    },
+    {
+      "subtype": "vnd.zul",
+      "ref": "[Grothmann]"
+    },
+    {
+      "subtype": "vnd.zzazz.deck+xml",
+      "ref": "[Hewett]"
+    },
+    {
+      "subtype": "voicexml+xml",
+      "ref": "[RFC4267]"
+    },
+    {
+      "subtype": "vq-rtcpxr",
+      "ref": "[RFC6035]"
+    },
+    {
+      "subtype": "watcherinfo+xml",
+      "ref": "[RFC3858]"
+    },
+    {
+      "subtype": "whoispp-query",
+      "ref": "[RFC2957]"
+    },
+    {
+      "subtype": "whoispp-response",
+      "ref": "[RFC2958]"
+    },
+    {
+      "subtype": "widget",
+      "ref": "[W3C][Steven_Pemberton][ISO/IEC 19757-2:2003/FDAM-1]"
+    },
+    {
+      "subtype": "wita",
+      "ref": "[Campbell]"
+    },
+    {
+      "subtype": "wordperfect5.1",
+      "ref": "[Paul_Lindner]"
+    },
+    {
+      "subtype": "wsdl+xml",
+      "ref": "[W3C]"
+    },
+    {
+      "subtype": "wspolicy+xml",
+      "ref": "[W3C]"
+    },
+    {
+      "subtype": "x400-bp",
+      "ref": "[RFC1494]"
+    },
+    {
+      "subtype": "xacml+xml",
+      "ref": "[RFC7061]"
+    },
+    {
+      "subtype": "xcap-att+xml",
+      "ref": "[RFC4825]"
+    },
+    {
+      "subtype": "xcap-caps+xml",
+      "ref": "[RFC4825]"
+    },
+    {
+      "subtype": "xcap-diff+xml",
+      "ref": "[RFC5874]"
+    },
+    {
+      "subtype": "xcap-el+xml",
+      "ref": "[RFC4825]"
+    },
+    {
+      "subtype": "xcap-error+xml",
+      "ref": "[RFC4825]"
+    },
+    {
+      "subtype": "xcap-ns+xml",
+      "ref": "[RFC4825]"
+    },
+    {
+      "subtype": "xcon-conference-info-diff+xml",
+      "ref": "[draft-ietf-xcon-event-package]"
+    },
+    {
+      "subtype": "xcon-conference-info+xml",
+      "ref": "[draft-ietf-xcon-event-package]"
+    },
+    {
+      "subtype": "xenc+xml",
+      "ref": "[Joseph_Reagle][XENC_Working_Group]"
+    },
+    {
+      "subtype": "xhtml-voice+xml - OBSOLETE",
+      "ref": "[draft-mccobb-xplusv-media-type]"
+    },
+    {
+      "subtype": "xhtml+xml",
+      "ref": "[RFC3236]"
+    },
+    {
+      "subtype": "xml",
+      "ref": "[RFC3023]"
+    },
+    {
+      "subtype": "xml-dtd",
+      "ref": "[RFC3023]"
+    },
+    {
+      "subtype": "xml-external-parsed-entity",
+      "ref": "[RFC3023]"
+    },
+    {
+      "subtype": "xmpp+xml",
+      "ref": "[RFC3923]"
+    },
+    {
+      "subtype": "xop+xml",
+      "ref": "[Mark_Nottingham]"
+    },
+    {
+      "subtype": "xslt+xml",
+      "ref": "[W3C][http://www.w3.org/TR/2007/REC-xslt20-20070123/#media-type-registration]"
+    },
+    {
+      "subtype": "xv+xml",
+      "ref": "[RFC4374]"
+    },
+    {
+      "subtype": "yang",
+      "ref": "[RFC6020]"
+    },
+    {
+      "subtype": "yin+xml",
+      "ref": "[RFC6020]"
+    },
+    {
+      "subtype": "zip",
+      "ref": "[Paul_Lindner]"
+    },
+    {
+      "subtype": "zlib",
+      "ref": "[RFC6713]"
+    }
+  ],
+  "audio": [
+    {
+      "subtype": "1d-interleaved-parityfec",
+      "ref": "[RFC6015]"
+    },
+    {
+      "subtype": "32kadpcm",
+      "ref": "[RFC3802][RFC2421]"
+    },
+    {
+      "subtype": "3gpp",
+      "ref": "[RFC3839][RFC6381]"
+    },
+    {
+      "subtype": "3gpp2",
+      "ref": "[RFC4393][RFC6381]"
+    },
+    {
+      "subtype": "ac3",
+      "ref": "[RFC4184]"
+    },
+    {
+      "subtype": "AMR",
+      "ref": "[RFC4867]"
+    },
+    {
+      "subtype": "AMR-WB",
+      "ref": "[RFC4867]"
+    },
+    {
+      "subtype": "amr-wb",
+      "ref": "[RFC4352]"
+    },
+    {
+      "subtype": "asc",
+      "ref": "[RFC6295]"
+    },
+    {
+      "subtype": "ATRAC-ADVANCED-LOSSLESS",
+      "ref": "[RFC5584]"
+    },
+    {
+      "subtype": "ATRAC-X",
+      "ref": "[RFC5584]"
+    },
+    {
+      "subtype": "ATRAC3",
+      "ref": "[RFC5584]"
+    },
+    {
+      "subtype": "basic",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "BV16",
+      "ref": "[RFC4298]"
+    },
+    {
+      "subtype": "BV32",
+      "ref": "[RFC4298]"
+    },
+    {
+      "subtype": "clearmode",
+      "ref": "[RFC4040]"
+    },
+    {
+      "subtype": "CN",
+      "ref": "[RFC3389]"
+    },
+    {
+      "subtype": "DAT12",
+      "ref": "[RFC3190]"
+    },
+    {
+      "subtype": "dls",
+      "ref": "[RFC4613]"
+    },
+    {
+      "subtype": "dsr-es201108",
+      "ref": "[RFC3557]"
+    },
+    {
+      "subtype": "dsr-es202050",
+      "ref": "[RFC4060]"
+    },
+    {
+      "subtype": "dsr-es202211",
+      "ref": "[RFC4060]"
+    },
+    {
+      "subtype": "dsr-es202212",
+      "ref": "[RFC4060]"
+    },
+    {
+      "subtype": "DV",
+      "ref": "[RFC6469]"
+    },
+    {
+      "subtype": "DVI4",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "eac3",
+      "ref": "[RFC4598]"
+    },
+    {
+      "subtype": "encaprtp",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "EVRC",
+      "ref": "[RFC4788]"
+    },
+    {
+      "subtype": "EVRC-QCP",
+      "ref": "[RFC3625]"
+    },
+    {
+      "subtype": "EVRC0",
+      "ref": "[RFC4788]"
+    },
+    {
+      "subtype": "EVRC1",
+      "ref": "[RFC4788]"
+    },
+    {
+      "subtype": "EVRCB",
+      "ref": "[RFC5188]"
+    },
+    {
+      "subtype": "EVRCB0",
+      "ref": "[RFC5188]"
+    },
+    {
+      "subtype": "EVRCB1",
+      "ref": "[RFC4788]"
+    },
+    {
+      "subtype": "EVRCNW",
+      "ref": "[RFC6884]"
+    },
+    {
+      "subtype": "EVRCNW0",
+      "ref": "[RFC6884]"
+    },
+    {
+      "subtype": "EVRCNW1",
+      "ref": "[RFC6884]"
+    },
+    {
+      "subtype": "EVRCWB",
+      "ref": "[RFC5188]"
+    },
+    {
+      "subtype": "EVRCWB0",
+      "ref": "[RFC5188]"
+    },
+    {
+      "subtype": "EVRCWB1",
+      "ref": "[RFC5188]"
+    },
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "fwdred",
+      "ref": "[RFC6354]"
+    },
+    {
+      "subtype": "G719",
+      "ref": "[RFC5404][RFC Errata \n          3245]"
+    },
+    {
+      "subtype": "G722",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G7221",
+      "ref": "[RFC5577]"
+    },
+    {
+      "subtype": "G723",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G726-16",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G726-24",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G726-32",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G726-40",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G728",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G729",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G7291",
+      "ref": "[RFC4749][RFC5459]"
+    },
+    {
+      "subtype": "G729D",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "G729E",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "GSM",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "GSM-EFR",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "GSM-HR-08",
+      "ref": "[RFC5993]"
+    },
+    {
+      "subtype": "iLBC",
+      "ref": "[RFC3952]"
+    },
+    {
+      "subtype": "ip-mr_v2.5",
+      "ref": "[RFC6262]"
+    },
+    {
+      "subtype": "L8",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "L16",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "L20",
+      "ref": "[RFC3190]"
+    },
+    {
+      "subtype": "L24",
+      "ref": "[RFC3190]"
+    },
+    {
+      "subtype": "LPC",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "mobile-xmf",
+      "ref": "[RFC4723]"
+    },
+    {
+      "subtype": "MPA",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "mp4",
+      "ref": "[RFC4337][RFC6381]"
+    },
+    {
+      "subtype": "MP4A-LATM",
+      "ref": "[RFC6416]"
+    },
+    {
+      "subtype": "mpa-robust",
+      "ref": "[RFC5219]"
+    },
+    {
+      "subtype": "mpeg",
+      "ref": "[RFC3003]"
+    },
+    {
+      "subtype": "mpeg4-generic",
+      "ref": "[RFC3640][RFC5691][RFC6295]"
+    },
+    {
+      "subtype": "ogg",
+      "ref": "[RFC5334]"
+    },
+    {
+      "subtype": "parityfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "PCMA",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "PCMA-WB",
+      "ref": "[RFC5391]"
+    },
+    {
+      "subtype": "PCMU",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "PCMU-WB",
+      "ref": "[RFC5391]"
+    },
+    {
+      "subtype": "prs.sid",
+      "ref": "[Linus_Walleij]"
+    },
+    {
+      "subtype": "QCELP",
+      "ref": "[RFC3555][RFC3625]"
+    },
+    {
+      "subtype": "raptorfec",
+      "ref": "[RFC6682]"
+    },
+    {
+      "subtype": "RED",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "rtp-enc-aescm128",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "rtploopback",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "rtp-midi",
+      "ref": "[RFC6295]"
+    },
+    {
+      "subtype": "rtx",
+      "ref": "[RFC4588]"
+    },
+    {
+      "subtype": "SMV",
+      "ref": "[RFC3558]"
+    },
+    {
+      "subtype": "SMV0",
+      "ref": "[RFC3558]"
+    },
+    {
+      "subtype": "SMV-QCP",
+      "ref": "[RFC3625]"
+    },
+    {
+      "subtype": "sp-midi",
+      "ref": "[Kosonen][Tom_White]"
+    },
+    {
+      "subtype": "speex",
+      "ref": "[RFC5574]"
+    },
+    {
+      "subtype": "t140c",
+      "ref": "[RFC4351]"
+    },
+    {
+      "subtype": "t38",
+      "ref": "[RFC4612]"
+    },
+    {
+      "subtype": "telephone-event",
+      "ref": "[RFC4733]"
+    },
+    {
+      "subtype": "tone",
+      "ref": "[RFC4733]"
+    },
+    {
+      "subtype": "UEMCLIP",
+      "ref": "[RFC5686]"
+    },
+    {
+      "subtype": "ulpfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "VDVI",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "VMR-WB",
+      "ref": "[RFC4348][RFC4424]"
+    },
+    {
+      "subtype": "vnd.3gpp.iufp",
+      "ref": "[Belling]"
+    },
+    {
+      "subtype": "vnd.4SB",
+      "ref": "[De_Jaham]"
+    },
+    {
+      "subtype": "vnd.audiokoz",
+      "ref": "[DeBarros]"
+    },
+    {
+      "subtype": "vnd.CELP",
+      "ref": "[De_Jaham]"
+    },
+    {
+      "subtype": "vnd.cisco.nse",
+      "ref": "[Rajesh_Kumar]"
+    },
+    {
+      "subtype": "vnd.cmles.radio-events",
+      "ref": "[Goulet]"
+    },
+    {
+      "subtype": "vnd.cns.anp1",
+      "ref": "[Ann_McLaughlin]"
+    },
+    {
+      "subtype": "vnd.cns.inf1",
+      "ref": "[Ann_McLaughlin]"
+    },
+    {
+      "subtype": "vnd.dece.audio",
+      "ref": "[Dolan]"
+    },
+    {
+      "subtype": "vnd.digital-winds",
+      "ref": "[Armands_Strazds]"
+    },
+    {
+      "subtype": "vnd.dlna.adts",
+      "ref": "[Heredia]"
+    },
+    {
+      "subtype": "vnd.dolby.heaac.1",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dolby.heaac.2",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dolby.mlp",
+      "ref": "[Mike_Ward]"
+    },
+    {
+      "subtype": "vnd.dolby.mps",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dolby.pl2",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dolby.pl2x",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dolby.pl2z",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dolby.pulse.1",
+      "ref": "[Hattersley]"
+    },
+    {
+      "subtype": "vnd.dra",
+      "ref": "[Jiang_Tian]"
+    },
+    {
+      "subtype": "vnd.dts",
+      "ref": "[William_Zou]"
+    },
+    {
+      "subtype": "vnd.dts.hd",
+      "ref": "[William_Zou]"
+    },
+    {
+      "subtype": "vnd.dvb.file",
+      "ref": "[Peter_Siebert]"
+    },
+    {
+      "subtype": "vnd.everad.plj",
+      "ref": "[Cicelsky]"
+    },
+    {
+      "subtype": "vnd.hns.audio",
+      "ref": "[Swaminathan]"
+    },
+    {
+      "subtype": "vnd.lucent.voice",
+      "ref": "[Greg_Vaudreuil]"
+    },
+    {
+      "subtype": "vnd.ms-playready.media.pya",
+      "ref": "[DiAcetis]"
+    },
+    {
+      "subtype": "vnd.nokia.mobile-xmf",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.nortel.vbk",
+      "ref": "[Glenn_Parsons]"
+    },
+    {
+      "subtype": "vnd.nuera.ecelp4800",
+      "ref": "[Fox]"
+    },
+    {
+      "subtype": "vnd.nuera.ecelp7470",
+      "ref": "[Fox]"
+    },
+    {
+      "subtype": "vnd.nuera.ecelp9600",
+      "ref": "[Fox]"
+    },
+    {
+      "subtype": "vnd.octel.sbc",
+      "ref": "[Greg_Vaudreuil]"
+    },
+    {
+      "subtype": "vnd.qcelp - DEPRECATED - Please see: audio/qcelp",
+      "ref": "[RFC3625]"
+    },
+    {
+      "subtype": "vnd.rhetorex.32kadpcm",
+      "ref": "[Greg_Vaudreuil]"
+    },
+    {
+      "subtype": "vnd.rip",
+      "ref": "[Dawe]"
+    },
+    {
+      "subtype": "vnd.sealedmedia.softseal.mpeg",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.vmx.cvsd",
+      "ref": "[Greg_Vaudreuil]"
+    },
+    {
+      "subtype": "vorbis",
+      "ref": "[RFC5215]"
+    },
+    {
+      "subtype": "vorbis-config",
+      "ref": "[RFC5215]"
+    }
+  ],
+  "image": [
+    {
+      "subtype": "cgm",
+      "ref": "[Francis]"
+    },
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "fits",
+      "ref": "[RFC4047]"
+    },
+    {
+      "subtype": "g3fax",
+      "ref": "[RFC1494]"
+    },
+    {
+      "subtype": "gif",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "ief",
+      "ref": "[RFC1314]"
+    },
+    {
+      "subtype": "jp2",
+      "ref": "[RFC3745]"
+    },
+    {
+      "subtype": "jpeg",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "jpm",
+      "ref": "[RFC3745]"
+    },
+    {
+      "subtype": "jpx",
+      "ref": "[RFC3745]"
+    },
+    {
+      "subtype": "ktx",
+      "ref": "[Callow][Khronos][http://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/#mimeregistration]"
+    },
+    {
+      "subtype": "naplps",
+      "ref": "[Ferber]"
+    },
+    {
+      "subtype": "png",
+      "ref": "[Glenn_Randers-Pehrson]"
+    },
+    {
+      "subtype": "prs.btif",
+      "ref": "[Ben_Simon]"
+    },
+    {
+      "subtype": "prs.pti",
+      "ref": "[Juern_Laun]"
+    },
+    {
+      "subtype": "pwg-raster",
+      "ref": "[Michael_Sweet]"
+    },
+    {
+      "subtype": "svg+xml",
+      "ref": "[W3C][http://www.w3.org/TR/SVG/mimereg.html]"
+    },
+    {
+      "subtype": "t38",
+      "ref": "[RFC3362]"
+    },
+    {
+      "subtype": "tiff",
+      "ref": "[RFC3302]"
+    },
+    {
+      "subtype": "tiff-fx",
+      "ref": "[RFC3950]"
+    },
+    {
+      "subtype": "vnd.adobe.photoshop",
+      "ref": "[Kim_Scarborough]"
+    },
+    {
+      "subtype": "vnd.airzip.accelerator.azv",
+      "ref": "[Clueit]"
+    },
+    {
+      "subtype": "vnd.cns.inf2",
+      "ref": "[Ann_McLaughlin]"
+    },
+    {
+      "subtype": "vnd.dece.graphic",
+      "ref": "[Dolan]"
+    },
+    {
+      "subtype": "vnd.djvu",
+      "ref": "[Bottou]"
+    },
+    {
+      "subtype": "vnd.dwg",
+      "ref": "[Jodi_Moline]"
+    },
+    {
+      "subtype": "vnd.dxf",
+      "ref": "[Jodi_Moline]"
+    },
+    {
+      "subtype": "vnd.dvb.subtitle",
+      "ref": "[Peter_Siebert][Michael_Lagally]"
+    },
+    {
+      "subtype": "vnd.fastbidsheet",
+      "ref": "[Becker]"
+    },
+    {
+      "subtype": "vnd.fpx",
+      "ref": "[Marc_Douglas_Spencer]"
+    },
+    {
+      "subtype": "vnd.fst",
+      "ref": "[Fuldseth]"
+    },
+    {
+      "subtype": "vnd.fujixerox.edmics-mmr",
+      "ref": "[Masanori_Onda]"
+    },
+    {
+      "subtype": "vnd.fujixerox.edmics-rlc",
+      "ref": "[Masanori_Onda]"
+    },
+    {
+      "subtype": "vnd.globalgraphics.pgb",
+      "ref": "[Bailey]"
+    },
+    {
+      "subtype": "vnd.microsoft.icon",
+      "ref": "[Butcher]"
+    },
+    {
+      "subtype": "vnd.mix",
+      "ref": "[Saveen_Reddy]"
+    },
+    {
+      "subtype": "vnd.ms-modi",
+      "ref": "[Gregory_Vaughan]"
+    },
+    {
+      "subtype": "vnd.net-fpx",
+      "ref": "[Marc_Douglas_Spencer]"
+    },
+    {
+      "subtype": "vnd.radiance",
+      "ref": "[Fritz][GWard]"
+    },
+    {
+      "subtype": "vnd.sealed.png",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealedmedia.softseal.gif",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealedmedia.softseal.jpg",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.svf",
+      "ref": "[Jodi_Moline]"
+    },
+    {
+      "subtype": "vnd.wap.wbmp",
+      "ref": "[Peter_Stark]"
+    },
+    {
+      "subtype": "vnd.xiff",
+      "ref": "[Steven_Martin]"
+    }
+  ],
+  "message": [
+    {
+      "subtype": "CPIM",
+      "ref": "[RFC3862]"
+    },
+    {
+      "subtype": "delivery-status",
+      "ref": "[RFC1894]"
+    },
+    {
+      "subtype": "disposition-notification",
+      "ref": "[RFC3798]"
+    },
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "external-body",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "feedback-report",
+      "ref": "[RFC5965]"
+    },
+    {
+      "subtype": "global",
+      "ref": "[RFC6532]"
+    },
+    {
+      "subtype": "global-delivery-status",
+      "ref": "[RFC6533]"
+    },
+    {
+      "subtype": "global-disposition-notification",
+      "ref": "[RFC6533]"
+    },
+    {
+      "subtype": "global-headers",
+      "ref": "[RFC6533]"
+    },
+    {
+      "subtype": "http",
+      "ref": "[RFC2616]"
+    },
+    {
+      "subtype": "imdn+xml",
+      "ref": "[RFC5438]"
+    },
+    {
+      "subtype": "news - OBSOLETE",
+      "ref": "[RFC5537][H.Spencer]"
+    },
+    {
+      "subtype": "partial",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "rfc822",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "s-http",
+      "ref": "[RFC2660]"
+    },
+    {
+      "subtype": "sip",
+      "ref": "[RFC3261]"
+    },
+    {
+      "subtype": "sipfrag",
+      "ref": "[RFC3420]"
+    },
+    {
+      "subtype": "tracking-status",
+      "ref": "[RFC3886]"
+    },
+    {
+      "subtype": "vnd.si.simp - OBSOLETE",
+      "ref": "[Nicholas_Parks_Young]"
+    },
+    {
+      "subtype": "vnd.wfa.wsc",
+      "ref": "[Conley]"
+    }
+  ],
+  "model": [
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "iges",
+      "ref": "[Curtis_Parks]"
+    },
+    {
+      "subtype": "mesh",
+      "ref": "[RFC2077]"
+    },
+    {
+      "subtype": "vnd.collada+xml",
+      "ref": "[James_Riordon]"
+    },
+    {
+      "subtype": "vnd.dwf",
+      "ref": "[Jason_Pratt]"
+    },
+    {
+      "subtype": "vnd.flatland.3dml",
+      "ref": "[Michael_Powers]"
+    },
+    {
+      "subtype": "vnd.gdl",
+      "ref": "[Babits]"
+    },
+    {
+      "subtype": "vnd.gs-gdl",
+      "ref": "[Babits]"
+    },
+    {
+      "subtype": "vnd.gtw",
+      "ref": "[Yutaka_Ozaki]"
+    },
+    {
+      "subtype": "vnd.moml+xml",
+      "ref": "[Brooks]"
+    },
+    {
+      "subtype": "vnd.mts",
+      "ref": "[Boris_Rabinovitch]"
+    },
+    {
+      "subtype": "vnd.parasolid.transmit.binary",
+      "ref": "[Parasolid]"
+    },
+    {
+      "subtype": "vnd.parasolid.transmit.text",
+      "ref": "[Parasolid]"
+    },
+    {
+      "subtype": "vnd.vtu",
+      "ref": "[Boris_Rabinovitch]"
+    },
+    {
+      "subtype": "vrml",
+      "ref": "[RFC2077]"
+    },
+    {
+      "subtype": "x3d-vrml",
+      "ref": "[Web3D][Web3DX3D]"
+    },
+    {
+      "subtype": "x3d+xml",
+      "ref": "[Web3D][Web3DX3D]"
+    }
+  ],
+  "multipart": [
+    {
+      "subtype": "alternative",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "appledouble",
+      "ref": "[Faltstrom]"
+    },
+    {
+      "subtype": "byteranges",
+      "ref": "[RFC2616]"
+    },
+    {
+      "subtype": "digest",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "encrypted",
+      "ref": "[RFC1847]"
+    },
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "form-data",
+      "ref": "[RFC2388]"
+    },
+    {
+      "subtype": "header-set",
+      "ref": "[Crocker]"
+    },
+    {
+      "subtype": "mixed",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "parallel",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "related",
+      "ref": "[RFC2387]"
+    },
+    {
+      "subtype": "report",
+      "ref": "[RFC6522]"
+    },
+    {
+      "subtype": "signed",
+      "ref": "[RFC1847]"
+    },
+    {
+      "subtype": "voice-message",
+      "ref": "[RFC2421][RFC2423]"
+    }
+  ],
+  "text": [
+    {
+      "subtype": "1d-interleaved-parityfec",
+      "ref": "[RFC6015]"
+    },
+    {
+      "subtype": "calendar",
+      "ref": "[RFC5545]"
+    },
+    {
+      "subtype": "css",
+      "ref": "[RFC2318]"
+    },
+    {
+      "subtype": "csv",
+      "ref": "[RFC4180][RFC7111]"
+    },
+    {
+      "subtype": "directory - DEPRECATED - Please see:",
+      "ref": "[RFC2425][RFC6350]"
+    },
+    {
+      "subtype": "dns",
+      "ref": "[RFC4027]"
+    },
+    {
+      "subtype": "ecmascript - OBSOLETE",
+      "ref": "[RFC4329]"
+    },
+    {
+      "subtype": "encaprtp",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "enriched",
+      "ref": "[RFC1896]"
+    },
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "fwdred",
+      "ref": "[RFC6354]"
+    },
+    {
+      "subtype": "grammar-ref-list",
+      "ref": "[RFC6787]"
+    },
+    {
+      "subtype": "html",
+      "ref": "[Michael_TM_Smith][W3C]"
+    },
+    {
+      "subtype": "javascript - OBSOLETE",
+      "ref": "[RFC4329]"
+    },
+    {
+      "subtype": "jcr-cnd",
+      "ref": "[Peeter_Piegaze]"
+    },
+    {
+      "subtype": "mizar",
+      "ref": "[Jesse_Alama]"
+    },
+    {
+      "subtype": "n3",
+      "ref": "[Eric_Prudhommeaux][W3C]"
+    },
+    {
+      "subtype": "parityfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "plain",
+      "ref": "[RFC2046][RFC3676][RFC5147]"
+    },
+    {
+      "subtype": "provenance-notation",
+      "ref": "[Herman][W3C]"
+    },
+    {
+      "subtype": "prs.fallenstein.rst",
+      "ref": "[Fallenstein]"
+    },
+    {
+      "subtype": "prs.lines.tag",
+      "ref": "[John_Lines]"
+    },
+    {
+      "subtype": "raptorfec",
+      "ref": "[RFC6682]"
+    },
+    {
+      "subtype": "RED",
+      "ref": "[RFC4102]"
+    },
+    {
+      "subtype": "rfc822-headers",
+      "ref": "[RFC6522]"
+    },
+    {
+      "subtype": "richtext",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "rtf",
+      "ref": "[Paul_Lindner]"
+    },
+    {
+      "subtype": "rtp-enc-aescm128",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "rtploopback",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "rtx",
+      "ref": "[RFC4588]"
+    },
+    {
+      "subtype": "sgml",
+      "ref": "[RFC1874]"
+    },
+    {
+      "subtype": "t140",
+      "ref": "[RFC4103]"
+    },
+    {
+      "subtype": "tab-separated-values",
+      "ref": "[Paul_Lindner]"
+    },
+    {
+      "subtype": "troff",
+      "ref": "[RFC4263]"
+    },
+    {
+      "subtype": "turtle",
+      "ref": "[Eric_Prudhommeaux][W3C]"
+    },
+    {
+      "subtype": "ulpfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "uri-list",
+      "ref": "[RFC2483]"
+    },
+    {
+      "subtype": "vcard",
+      "ref": "[RFC6350]"
+    },
+    {
+      "subtype": "vnd.abc",
+      "ref": "[Allen]"
+    },
+    {
+      "subtype": "vnd.curl",
+      "ref": "[Byrnes]"
+    },
+    {
+      "subtype": "vnd.debian.copyright",
+      "ref": "[Charles_Plessy]"
+    },
+    {
+      "subtype": "vnd.DMClientScript",
+      "ref": "[Bradley]"
+    },
+    {
+      "subtype": "vnd.dvb.subtitle",
+      "ref": "[Peter_Siebert][Michael_Lagally]"
+    },
+    {
+      "subtype": "vnd.esmertec.theme-descriptor",
+      "ref": "[Eilemann]"
+    },
+    {
+      "subtype": "vnd.fly",
+      "ref": "[Gurney]"
+    },
+    {
+      "subtype": "vnd.fmi.flexstor",
+      "ref": "[Hurtta]"
+    },
+    {
+      "subtype": "vnd.graphviz",
+      "ref": "[Ellson]"
+    },
+    {
+      "subtype": "vnd.in3d.3dml",
+      "ref": "[Michael_Powers]"
+    },
+    {
+      "subtype": "vnd.in3d.spot",
+      "ref": "[Michael_Powers]"
+    },
+    {
+      "subtype": "vnd.IPTC.NewsML",
+      "ref": "[IPTC]"
+    },
+    {
+      "subtype": "vnd.IPTC.NITF",
+      "ref": "[IPTC]"
+    },
+    {
+      "subtype": "vnd.latex-z",
+      "ref": "[Mikusiak_Lubos]"
+    },
+    {
+      "subtype": "vnd.motorola.reflex",
+      "ref": "[Mark_Patton]"
+    },
+    {
+      "subtype": "vnd.ms-mediapackage",
+      "ref": "[Jan_Nelson]"
+    },
+    {
+      "subtype": "vnd.net2phone.commcenter.command",
+      "ref": "[Feiyu_Xie]"
+    },
+    {
+      "subtype": "vnd.radisys.msml-basic-layout",
+      "ref": "[RFC5707]"
+    },
+    {
+      "subtype": "vnd.si.uricatalogue - OBSOLETE",
+      "ref": "[Nicholas_Parks_Young]"
+    },
+    {
+      "subtype": "vnd.sun.j2me.app-descriptor",
+      "ref": "[G.Adams]"
+    },
+    {
+      "subtype": "vnd.trolltech.linguist",
+      "ref": "[D.Lambert]"
+    },
+    {
+      "subtype": "vnd.wap.si",
+      "ref": "[WAP-Forum]"
+    },
+    {
+      "subtype": "vnd.wap.sl",
+      "ref": "[WAP-Forum]"
+    },
+    {
+      "subtype": "vnd.wap.wml",
+      "ref": "[Peter_Stark]"
+    },
+    {
+      "subtype": "vnd.wap.wmlscript",
+      "ref": "[Peter_Stark]"
+    },
+    {
+      "subtype": "xml",
+      "ref": "[RFC3023]"
+    },
+    {
+      "subtype": "xml-external-parsed-entity",
+      "ref": "[RFC3023]"
+    }
+  ],
+  "video": [
+    {
+      "subtype": "1d-interleaved-parityfec",
+      "ref": "[RFC6015]"
+    },
+    {
+      "subtype": "3gpp",
+      "ref": "[RFC3839][RFC6381]"
+    },
+    {
+      "subtype": "3gpp2",
+      "ref": "[RFC4393][RFC6381]"
+    },
+    {
+      "subtype": "3gpp-tt",
+      "ref": "[RFC4396]"
+    },
+    {
+      "subtype": "BMPEG",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "BT656",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "CelB",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "DV",
+      "ref": "[RFC6469]"
+    },
+    {
+      "subtype": "encaprtp",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "example",
+      "ref": "[RFC4735]"
+    },
+    {
+      "subtype": "H261",
+      "ref": "[RFC4587]"
+    },
+    {
+      "subtype": "H263",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "H263-1998",
+      "ref": "[RFC4629]"
+    },
+    {
+      "subtype": "H263-2000",
+      "ref": "[RFC4629]"
+    },
+    {
+      "subtype": "H264",
+      "ref": "[RFC6184]"
+    },
+    {
+      "subtype": "H264-RCDO",
+      "ref": "[RFC6185]"
+    },
+    {
+      "subtype": "H264-SVC",
+      "ref": "[RFC6190]"
+    },
+    {
+      "subtype": "JPEG",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "jpeg2000",
+      "ref": "[RFC5371][RFC5372]"
+    },
+    {
+      "subtype": "MJ2",
+      "ref": "[RFC3745]"
+    },
+    {
+      "subtype": "MP1S",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "MP2P",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "MP2T",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "mp4",
+      "ref": "[RFC4337][RFC6381]"
+    },
+    {
+      "subtype": "MP4V-ES",
+      "ref": "[RFC6416]"
+    },
+    {
+      "subtype": "MPV",
+      "ref": "[RFC3555]"
+    },
+    {
+      "subtype": "mpeg",
+      "ref": "[RFC2045][RFC2046]"
+    },
+    {
+      "subtype": "mpeg4-generic",
+      "ref": "[RFC3640]"
+    },
+    {
+      "subtype": "nv",
+      "ref": "[RFC4856]"
+    },
+    {
+      "subtype": "ogg",
+      "ref": "[RFC5334]"
+    },
+    {
+      "subtype": "parityfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "pointer",
+      "ref": "[RFC2862]"
+    },
+    {
+      "subtype": "quicktime",
+      "ref": "[RFC6381][Paul_Lindner]"
+    },
+    {
+      "subtype": "raptorfec",
+      "ref": "[RFC6682]"
+    },
+    {
+      "subtype": "raw",
+      "ref": "[RFC4175]"
+    },
+    {
+      "subtype": "rtp-enc-aescm128",
+      "ref": "[ThreeGPP]"
+    },
+    {
+      "subtype": "rtploopback",
+      "ref": "[RFC6849]"
+    },
+    {
+      "subtype": "rtx",
+      "ref": "[RFC4588]"
+    },
+    {
+      "subtype": "SMPTE292M",
+      "ref": "[RFC3497]"
+    },
+    {
+      "subtype": "ulpfec",
+      "ref": "[RFC5109]"
+    },
+    {
+      "subtype": "vc1",
+      "ref": "[RFC4425]"
+    },
+    {
+      "subtype": "vnd.CCTV",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Rottmann]"
+    },
+    {
+      "subtype": "vnd.dece.hd",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.mobile",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.mp4",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.pd",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.sd",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Dolan]"
+    },
+    {
+      "subtype": "vnd.dece.video",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Dolan]"
+    },
+    {
+      "subtype": "vnd.directv.mpeg",
+      "ref": "[Nathan_Zerbe]"
+    },
+    {
+      "subtype": "vnd.directv.mpeg-tts",
+      "ref": "[Nathan_Zerbe]"
+    },
+    {
+      "subtype": "vnd.dlna.mpeg-tts",
+      "ref": "[Heredia]"
+    },
+    {
+      "subtype": "vnd.dvb.file",
+      "ref": "[Peter_Siebert][Kevin_Murray]"
+    },
+    {
+      "subtype": "vnd.fvt",
+      "ref": "[Fuldseth]"
+    },
+    {
+      "subtype": "vnd.hns.video",
+      "ref": "[Swaminathan]"
+    },
+    {
+      "subtype": "vnd.iptvforum.1dparityfec-1010",
+      "ref": "[Shuji_Nakamura]"
+    },
+    {
+      "subtype": "vnd.iptvforum.1dparityfec-2005",
+      "ref": "[Shuji_Nakamura]"
+    },
+    {
+      "subtype": "vnd.iptvforum.2dparityfec-1010",
+      "ref": "[Shuji_Nakamura]"
+    },
+    {
+      "subtype": "vnd.iptvforum.2dparityfec-2005",
+      "ref": "[Shuji_Nakamura]"
+    },
+    {
+      "subtype": "vnd.iptvforum.ttsavc",
+      "ref": "[Shuji_Nakamura]"
+    },
+    {
+      "subtype": "vnd.iptvforum.ttsmpeg2",
+      "ref": "[Shuji_Nakamura]"
+    },
+    {
+      "subtype": "vnd.motorola.video",
+      "ref": "[Tom_McGinty]"
+    },
+    {
+      "subtype": "vnd.motorola.videop",
+      "ref": "[Tom_McGinty]"
+    },
+    {
+      "subtype": "vnd.mpegurl",
+      "ref": "[Heiko_Recktenwald]"
+    },
+    {
+      "subtype": "vnd.ms-playready.media.pyv",
+      "ref": "[DiAcetis]"
+    },
+    {
+      "subtype": "vnd.nokia.interleaved-multimedia",
+      "ref": "[Kangaslampi]"
+    },
+    {
+      "subtype": "vnd.nokia.videovoip",
+      "ref": "[Nokia]"
+    },
+    {
+      "subtype": "vnd.objectvideo",
+      "ref": "[Clark]"
+    },
+    {
+      "subtype": "vnd.radgamettools.bink",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.radgamettools.smacker",
+      "ref": "[Andersson]"
+    },
+    {
+      "subtype": "vnd.sealed.mpeg1",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealed.mpeg4",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealed.swf",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.sealedmedia.softseal.mov",
+      "ref": "[David_Petersen]"
+    },
+    {
+      "subtype": "vnd.uvvu.mp4",
+      "ref": "[http://www.iana.org/assignments/contact-people.htmll#Dolan]"
+    },
+    {
+      "subtype": "vnd.vivo",
+      "ref": "[John_Wolfe]"
+    }
+  ]
+}
