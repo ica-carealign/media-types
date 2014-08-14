@@ -7,8 +7,24 @@ A multi-platform collection of objects describing [IANA-registered Media Types](
 
 ### Save IANA Data to Cache
 
-	$ rake cache
+```bash
+$ rake cache
+```
 
 ### Load New Data from IANA
 
-	$ rake load
+```bash
+$ rake load
+```
+
+### Generate Objects from Cache
+
+```bash
+$ rake generate
+```
+
+### Load New Data, Save to Cache, and Generate Objects
+
+```bash
+$ rake generate_fresh
+```

@@ -1,0 +1,25 @@
+using System;
+
+namespace Iana
+{
+  ///<summary>
+  ///  Encapsulates the media types registered with the IANA.
+  ///</summary>
+  public partial class MediaTypes
+  {
+    ///<summary>
+    ///  Encapsulates the media subtypes registered under the <%= @typeValue %> type.
+    ///</summary>
+    public class <%= @typeName %>
+    {
+<% for subType in @subTypes %>
+      ///<summary><%= @typeValue + '/' + subType[:value] %></summary>
+<% if subType[:remarks] %>
+      <%= subType[:remarks] %>
+<% end %>
+      public const string <%= subType[:name] %> = @"<%= @typeValue + '/' + subType[:value] %>";
+
+<% end %>
+    }
+  }
+}
