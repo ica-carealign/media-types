@@ -1,0 +1,11 @@
+using System.Reflection;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyTitle("Iana.MediaTypes")]
+[assembly: AssemblyDescription("A collection of objects for .NET describing IANA-registered Media Types")]
+[assembly: AssemblyCompany("The Tribe")]
+[assembly: AssemblyProduct("Iana.MediaTypes")]
+[assembly: AssemblyCopyright("Copyright © The Tribe <%= Time.now.year %>")]
+[assembly: ComVisible(false)]
+[assembly: Guid("90bbc8a2-b668-4e3d-920e-e2baa51102fb")]
+[assembly: AssemblyVersion("<%= @version %>")]

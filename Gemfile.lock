@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erubis (2.7.0)
+    facets (2.9.3)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  erubis
+  facets

@@ -6,6 +6,7 @@ require 'rake/clean'
 # Directories and files to clean
 ##
 CLEAN.include('data/iana.json')
+CLEAN.include('src')
 
 ##
 # Tasks
@@ -21,4 +22,15 @@ end
 desc 'Load data from iana.org.'
 task :load do
   ruby 'bin/load_data.rb'
+end
+
+desc 'Load data from iana.org, cache it, and generate output for all supported platforms.'
+task :generate_fresh => [:load, :cache, :generate]
+
+desc 'Generate output for all supported platforms.'
+task :generate => [:generate_dotnet]
+
+desc 'Generate a .NET assembly using cached data from iana.org.'
+task :generate_dotnet do
+  ruby 'bin/generate_dotnet.rb'
 end

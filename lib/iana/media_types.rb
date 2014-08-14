@@ -57,7 +57,8 @@ module IANA
           options[:before_parse_item].call(type) if (options.has_key?(:before_parse_item))
           
           CSV.parse(csv_data, csv_parse_options) do |row|
-            refs = row[reference_key].force_encoding(encoding).scan(/\[(.*?)\]/).map do |ref|
+          name = row[subtype_key].force_encoding(encoding)
+          refs = row[reference_key].force_encoding(encoding).scan(/\[(.*?)\]/).map do |ref|
               ref = ref[0]
             
               if ref.match(/^RFC/)
@@ -76,7 +77,8 @@ module IANA
           
             results[type] << {
               :refs    => refs,
-              :subtype => row[subtype_key].force_encoding(encoding)
+              :subtype => extract_subtype(name),
+              :remarks => extract_remarks(name)
             }
           end
           
@@ -84,6 +86,8 @@ module IANA
         else
           raise "No data to parse from #{uri}"
         end
+
+        results[type].uniq! { |item| "#{item[:subtype]}::#{item[:remarks]}" }
   
         results
       end
@@ -91,6 +95,15 @@ module IANA
       options[:after_parse].call() if (options.has_key?(:after_parse))
       
       parsed_data
+    end
+
+    def self.extract_subtype(text)
+      /^[^\s]+/.match(text).to_s
+    end
+
+    def self.extract_remarks(text)
+      /\s+[\s-]*(?<remarks>.+)$/ =~ text
+      remarks
     end
   end
 end
